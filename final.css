@@ -4,26 +4,36 @@ html {
     min-height: 100%;
 }
 
-body{
-    font-family: sans-serif;
+body {
+ font-family: 'Quicksand', sans-serif;
+ font-weight: 300;
 }
+
+h1, h2, h3, h4, h5, h6 {
+ font-family: 'Quicksand', sans-serif;
+ font-weight: 500;
+}
+
 
 a{
     text-decoration:none !important;
+     font-family: 'Quicksand', sans-serif;
 }
 
 a:focus,
 a:active {
+     font-family: 'Quicksand', sans-serif;
     text-decoration: none;
     outline: none;
 }
 
 p{
-    font-size:14px;
+     font-family: 'Quicksand', sans-serif;
+    font-size:16px;
 }
 
 *:focus {
-    outline: 0;
+    outline: 5cm;
 }
 
 html {
@@ -31,12 +41,14 @@ html {
     min-height: 100%;
 }
 
-body{
-    font-family: sans-serif;
+body {
+ font-family: 'Quicksand', sans-serif;
+ font-weight: 300;
 }
 
-a{
-    text-decoration:none !important;
+h1, h2, h3, h4, h5, h6 {
+ font-family: 'Quicksand', sans-serif;
+ font-weight: 500;
 }
 
 a:focus,
@@ -46,26 +58,28 @@ a:active {
 }
 
 p{
-    font-size:14px;
+    font-size:16px;
 }
 
 *:focus {
-    outline: 0;
+    outline: 5cm;
 }
 #wrapper{
     margin: 25px 0;
 }
 a {
+    font-family: 'Quicksand', sans-serif;
     color: inherit; /* blue colors for links too */
     text-decoration: inherit; /* no underline */
 }
 
 .namedepartment {
-    padding: 10px 18px 10px 18px;
+    padding: 20px 24px 20px 24px;
     line-height: normal;
 }
 
 h1.name{
+    font-family: 'Quicksand', sans-serif;
     font-weight: bold;
     font-size: xx-large;
     color: #243c4f;
@@ -74,15 +88,17 @@ h1.name{
 }
 
 h3.department {
+    font-family: 'Quicksand', sans-serif;
     color:#333;
     font-weight: 600;
     line-height: 30px;
-    font-size:16px;
+    font-size:18px;
     padding: 0;
     margin: 0;
 }
 
 a.mail {
+    font-family: 'Quicksand', sans-serif;
     font-weight: 700;
     color: #333;
 }
@@ -91,31 +107,34 @@ a.supervisor {
 }
 
 a.dotted {
+    font-family: 'Quicksand', sans-serif;
     border-bottom: 1px dotted #b3b3b3;
     color: #333;
 }
 
 .bordertop{
-    border-top: 1px dashed #cccccc;
+    border-top: 2px dashed #cccccc;
 }
 
 .bio{
-    padding: 15px 15px;
+    font-family: 'Quicksand', sans-serif;
+    padding: 18px 18px;
     float:left;
     text-align:justify;
     color: #333;
     width:100%;
-    border-bottom: 1px dashed #cccccc;
+    border-bottom: 2px dashed #cccccc;
     line-height: normal;
 }
 
 .researchsection {
-    padding: 15px 15px;
+    font-family: 'Quicksand', sans-serif;
+    padding: 18px 18px;
     float:left;
     text-align:justify;
     color: #333;
     width:100%;
-    border-bottom: 1px dashed #cccccc;
+    border-bottom: 2px dashed #cccccc;
     line-height: normal;
 }
 
@@ -125,24 +144,28 @@ a.dotted {
 
 
 .papers {
-    padding: 15px 15px;
+    font-family: 'Quicksand', sans-serif;
+    padding: 18px 18px;
     float:left;
     text-align:justify;
     color: #333;
     width:100%;
-    border-bottom: 1px dashed #cccccc;
-    font-size: 14px;
+    border-bottom: 2px dashed #cccccc;
+    font-size: 16px;
     font-weight: 400;
     line-height: normal;
 }
 .shortcuts {
-    border-bottom: 1px dashed #cccccc;
+    font-family: 'Quicksand', sans-serif;
+    border-bottom: 2px dashed #cccccc;
     text-align: right;
 }
 .papers li {
-    padding-bottom: 15px;
+    font-family: 'Quicksand', sans-serif;
+    padding-bottom: 18px;
 }
 .papers li:last-of-type {
+    font-family: 'Quicksand', sans-serif;
     padding-bottom: 0;
 }
 .noborder {
@@ -150,43 +173,47 @@ a.dotted {
 }
 
 .leftmenu {
+    font-family: 'Quicksand', sans-serif;
     list-style: none;
     font-size: 18px;
     padding: 10px;
-    border-bottom: 1px dashed #cccccc;
+    border-bottom: 2px dashed #cccccc;
     line-height: 30px;
 }
 
 .leftmenu a {
-    color: #243c4f;
+    font-family: 'Quicksand', sans-serif;
+    color: #2c6658;
     font-weight: 400;
 }
 .leftmenu a:hover {
+    font-family: 'Quicksand', sans-serif;
     font-weight: 600;
-    color: #243c4f;
+    color: #2c6658;
 }
 
 .leftmenu li.active {
+    font-family: 'Quicksand', sans-serif;
     font-weight: 600;
-    color: #243c4f;
+    color: #2c6658;
     cursor: default
 }
 
 .icons {
-    padding: 10px;
+    padding: 15px;
 }
 
 .icons a {
-    color: #243c4f;
-    font-size: 22px;
+    color: #2c6658;
+    font-size: 25px;
 }
 
 .icons i {
-    color: #243c4f;
-    font-size: 22px;
+    color: #2c6658;
+    font-size: 25px;
 }
 .icons i:hover {
-    font-size: 25px;
+    font-size: 30px;
 }
 ul {
     margin: 0 !important;
