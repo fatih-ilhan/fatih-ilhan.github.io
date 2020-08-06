@@ -1,0 +1,287 @@
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration:none !important;
+}
+
+a:focus,
+a:active {
+    text-decoration: none;
+    outline: none;
+}
+
+p{
+    font-size:14px;
+}
+
+*:focus {
+    outline: 0;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration:none !important;
+}
+
+a:focus,
+a:active {
+    text-decoration: none;
+    outline: none;
+}
+
+p{
+    font-size:14px;
+}
+
+*:focus {
+    outline: 0;
+}
+#wrapper{
+    margin: 25px 0;
+}
+a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+}
+
+.namedepartment {
+    padding: 10px 18px 10px 18px;
+    line-height: normal;
+}
+
+h1.name{
+    font-weight: bold;
+    font-size: xx-large;
+    color: #243c4f;
+    padding: 0;
+    margin: 0;
+}
+
+h3.department {
+    color:#333;
+    font-weight: 600;
+    line-height: 30px;
+    font-size:16px;
+    padding: 0;
+    margin: 0;
+}
+
+a.mail {
+    font-weight: 700;
+    color: #333;
+}
+
+a.supervisor {
+}
+
+a.dotted {
+    border-bottom: 1px dotted #b3b3b3;
+    color: #333;
+}
+
+.bordertop{
+    border-top: 1px dashed #cccccc;
+}
+
+.bio{
+    padding: 15px 15px;
+    float:left;
+    text-align:justify;
+    color: #333;
+    width:100%;
+    border-bottom: 1px dashed #cccccc;
+    line-height: normal;
+}
+
+.researchsection {
+    padding: 15px 15px;
+    float:left;
+    text-align:justify;
+    color: #333;
+    width:100%;
+    border-bottom: 1px dashed #cccccc;
+    line-height: normal;
+}
+
+.researchsection a {
+    color: #243c4f;
+}
+
+
+.papers {
+    padding: 15px 15px;
+    float:left;
+    text-align:justify;
+    color: #333;
+    width:100%;
+    border-bottom: 1px dashed #cccccc;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+}
+.shortcuts {
+    border-bottom: 1px dashed #cccccc;
+    text-align: right;
+}
+.papers li {
+    padding-bottom: 15px;
+}
+.papers li:last-of-type {
+    padding-bottom: 0;
+}
+.noborder {
+    border-bottom: 0!important;
+}
+
+.leftmenu {
+    list-style: none;
+    font-size: 18px;
+    padding: 10px;
+    border-bottom: 1px dashed #cccccc;
+    line-height: 30px;
+}
+
+.leftmenu a {
+    color: #243c4f;
+    font-weight: 400;
+}
+.leftmenu a:hover {
+    font-weight: 600;
+    color: #243c4f;
+}
+
+.leftmenu li.active {
+    font-weight: 600;
+    color: #243c4f;
+    cursor: default
+}
+
+.icons {
+    padding: 10px;
+}
+
+.icons a {
+    color: #243c4f;
+    font-size: 22px;
+}
+
+.icons i {
+    color: #243c4f;
+    font-size: 22px;
+}
+.icons i:hover {
+    font-size: 25px;
+}
+ul {
+    margin: 0 !important;
+}
+
+
+.photo{
+    width:100%;
+    -webkit-box-shadow: -2px -1px 88px 0px rgba(0,0,0,0.17);
+    -moz-box-shadow: -2px -1px 88px 0px rgba(0,0,0,0.17);
+    box-shadow: -2px -1px 88px 0px rgba(0,0,0,0.17);
+}
+
+.photo img{
+    width:100%;
+}
+
+.left-menu{
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+    text-align:center;
+    background:#FFFFFF;
+    -webkit-box-shadow: -2px -1px 88px 0px rgba(0,0,0,0.17);
+    -moz-box-shadow: -2px -1px 88px 0px rgba(0,0,0,0.17);
+    box-shadow: -2px -1px 88px 0px rgba(0,0,0,0.17);
+}
+
+.left-menu h1{
+    font-size:20px;
+    font-weight:900;
+}
+
+
+.content{
+    background:#fff;
+    /*    margin-top:30px;*/
+    -webkit-box-shadow: -2px -1px 88px 0px rgba(0,0,0,0.17);
+    -moz-box-shadow: -2px -1px 88px 0px rgba(0,0,0,0.17);
+    box-shadow: -2px -1px 88px 0px rgba(0,0,0,0.17);
+}
+
+.page{
+    padding-top:30px;
+    display: inline-block;
+    min-height: 670px;
+}
+
+.section-title{
+    font-size:18px;
+    font-weight:bold;
+    margin-bottom:20px;
+}
+
+
+/*Max Width 1199px */
+
+@media screen and (max-width: 1199px) {
+
+
+    ul.top-menu li a {
+        padding:30px 20px;
+    }
+
+}
+
+/*Max Width 991px */
+
+@media screen and (max-width: 991px) {
+
+    .profile{
+        margin-bottom: 30px;
+    }
+
+
+}
+
+
+/*Max Width 767px */
+
+@media screen and (max-width: 767px) {
+
+
+    .profile{
+        margin-bottom: 30px;
+    }
+
+}
+
+
+@media only screen and (max-width:479px) {
+
+    #wrapper {
+        margin: 15px 0;
+    }
+
+}
