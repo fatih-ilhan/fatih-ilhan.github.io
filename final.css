@@ -1,12 +1,12 @@
-
 html {
     position: relative;
     min-height: 100%;
 }
 
 body {
- font-family: 'Quicksand', sans-serif;
- font-weight: 300;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+    background-image: url("https://www.transparenttextures.com/patterns/egg-shell.png");
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -33,7 +33,7 @@ p{
 }
 
 *:focus {
-    outline: 5cm;
+    outline: 0;
 }
 
 html {
@@ -62,7 +62,7 @@ p{
 }
 
 *:focus {
-    outline: 5cm;
+    outline: 0;
 }
 #wrapper{
     margin: 25px 0;
@@ -71,6 +71,14 @@ a {
     font-family: 'Quicksand', sans-serif;
     color: inherit; /* blue colors for links too */
     text-decoration: inherit; /* no underline */
+}
+
+.col-md-12 a {
+    color: #64985a;
+}
+
+.col-md-12 a:hover {
+    color: #004e00;
 }
 
 .namedepartment {
