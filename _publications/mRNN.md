@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/mRNN
 ---
 <b>F. Ilhan</b>, O. Karaahmetoglu and S. S. Kozat, "Markovian RNN: An Adaptive Time Series Prediction Network with HMM-based Switching for Nonstationary Environments", <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2020.
+
 [[PDF]](https://arxiv.org/abs/2006.10119)
 
 
