@@ -63,27 +63,27 @@ to be submitted to <i>IEEE Transactions on Signal Processing</i>, 2020. _(draft 
 
 1. <b>[Spatio-Temporal Crime Prediction via Temporally Hierarchical Convolutional Neural Networks](http://fatih-ilhan.github.io/publications/THCNN)</b><br>
 <b>F. Ilhan</b>, S. F. Tekin and B. Aksoy.
-<i>**28th IEEE Signal Processing and Communications Applications**</i>, 2020.
+<i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
 
 2. <b>[LSTM-Based Online Learning with Extended Kalman Filter Based Training Algorithm](http://fatih-ilhan.github.io/publications/EKF)</b><br>
 <b>F. Ilhan</b>, N. M. Vural and S. S. Kozat.
-<i>**28th IEEE Signal Processing and Communications Applications**</i>, 2020.
+<i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
 
 3. <b>[Performance Analysis of Semi-Supervised Learning Methods under Different Missing Label Patterns"](http://fatih-ilhan.github.io/publications/SSLM)</b><br>
 <b>F. Ilhan</b> and E. Mumcuoglu.
-<i>**28th IEEE Signal Processing and Communications Applications**</i>, 2020. ([code](https://github.com/fatih-ilhan/ssl-exploration))
+<i>28th IEEE Signal Processing and Communications Applications</i>, 2020. ([code](https://github.com/fatih-ilhan/ssl-exploration))
 
 4. <b>[A Two-Stage Multi-Class Classification Approach Based on Anomaly Detection](http://fatih-ilhan.github.io/publications/TSMCC)</b><br>
 <b>F. Ilhan</b>, S. F. Yilmaz and S. S. Kozat.
-<i>**28th IEEE Signal Processing and Communications Applications**</i>, 2020. ([code](https://github.com/fatih-ilhan/anomaly-detection-for-mcc))
+<i>28th IEEE Signal Processing and Communications Applications</i>, 2020. ([code](https://github.com/fatih-ilhan/anomaly-detection-for-mcc))
 
 5. <b>[Shortest Path Learning in Non-Stationary Environments via Online Convex Optimization](http://fatih-ilhan.github.io/publications/SPLNSE)</b><br>
 N. M. Vural, B. Altas, **F. Ilhan** and S. S. Kozat.
-<i>**28th IEEE Signal Processing and Communications Applications**</i>, 2020.
+<i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
 
 6. <b>[Shortest Path Learning via Online Convex Optimization](http://fatih-ilhan.github.io/publications/SPL)</b><br>
 N. M. Vural, B. Altas, **F. Ilhan** and S. S. Kozat,
-<i>**28th IEEE Signal Processing and Communications Applications**</i>, 2020.
+<i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
 
 
 ## Patents
