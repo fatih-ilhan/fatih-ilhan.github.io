@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+*   [**Journal Papers**](#journal-papers)
+*   [**Working Papers**](#working-papers)
+*   [**Conference Papers**](#conference-papers)
+*   [**Patents**](#patents)
+
 ## Journal Papers
 
 1.  **F. Ilhan** and S. S. Kozat, "Modeling of Spatio-Temporal Hawkes Processes with Randomized Kernels", **IEEE Transactions on Signal Processing**, 2020\. **(Accepted)** ([IEEEXplore](https://ieeexplore.ieee.org/document/9177186)) ([code](https://github.com/fatih-ilhan/sthawkes))
