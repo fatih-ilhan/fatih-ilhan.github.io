@@ -29,7 +29,7 @@ During the senior year of my B.Sc. studies, I conducted research on unsupervised
 
 I have achieved the **191st rank nationwide** in the National University Entrance Examinations among 2 million students. During my B.Sc. studies, I have been awarded the **Comprehensive Fellowship** by Bilkent University and **JASSO Scholarship** for my exchange studies in **Nagoya University**, Japan. During my M.Sc. studies, I have been awarded the **Full Scholarship** by Bilkent University and **TUBITAK Scholarship** by The Scientific and Technological Research Council of Turkey.
 
-I have authored [**8 journal papers**](#journal) in highly respected IEEE Transactions, [**6 conference papers**](#conference) in refereed high impact conference proceedings and [**3 patents**](#patent). I have also contributed to [**13 open-source software projects**](http://github.com/fatih-ilhan) on Github. My research interests include machine learning, convex/non-convex optimization, online learning and their applications on time-series prediction, spatio-temporal forecasting and anomaly detection.
+I have authored [**8 journal papers**](#journal-papers) in highly respected IEEE Transactions, [**6 conference papers**](#conference-papers) in refereed high impact conference proceedings and [**3 patents**](#patents). I have also contributed to [**13 open-source software projects**](http://github.com/fatih-ilhan) on Github. My research interests include machine learning, convex/non-convex optimization, online learning and their applications on time-series prediction, spatio-temporal forecasting and anomaly detection.
 
 
 ## Journal Papers
