@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fatih İlhan"
 title_separator          : "-"
 name                     : &name "Fatih İlhan"
-description              : &description
+description              : &description "M.Sc Student at Bilkent University"
 url                      : https://fatih-ilhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fatih-ilhan.github.io"
@@ -88,7 +88,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
