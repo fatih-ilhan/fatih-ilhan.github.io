@@ -12,14 +12,37 @@ author_profile: true
 
 ## Journal Papers
 
-1.  **F. Ilhan** and S. S. Kozat, "Modeling of Spatio-Temporal Hawkes Processes with Randomized Kernels", **IEEE Transactions on Signal Processing**, 2020\. **(Accepted)** ([IEEEXplore](https://ieeexplore.ieee.org/document/9177186)) ([code](https://github.com/fatih-ilhan/sthawkes))
-2.  **F. Ilhan**, O. Karaahmetoglu and S. S. Kozat, "Markovian RNN: An Adaptive Time Series Prediction Network with HMM-based Switching for Nonstationary Environments", **IEEE Transactions on Neural Networks and Learning Systems**, 2020\. **(Under review)** ([arXiv](https://arxiv.org/abs/2006.10119)) ([code](https://github.com/fatih-ilhan/markov-rnn))
-3.  N. M. Vural, **F. Ilhan**, S. F. Yilmaz and S. S. Kozat, "Achieving Online Regression Performance of LSTMs with Simple RNNs", **IEEE Transactions on Neural Networks and Learning Systems**, 2020\. **(Under review)** ([arXiv](https://arxiv.org/abs/2005.08948))
-4.  O. Karaahmetoglu, **F. Ilhan** and S. S. Kozat, "Unsupervised Online Anomaly Detection On Irregularly Sampled Or Missing Valued Time-Series Data Using LSTM Networks", **IEEE Transactions on Neural Networks and Learning Systems**, 2020\. **(Under review)** ([arXiv](https://arxiv.org/abs/2005.12005))
-5.  N. M. Vural, **F. Ilhan** and S. S. Kozat, "Stability of the Decoupled Extended Kalman Filter in LSTM-Based Online Learning", **Digital Signal Processing**, 2020\. **(Under review)** ([arXiv](https://arxiv.org/abs/1911.12258))
-6.  H. Gokcesu, **F. Ilhan**, K. Gokcesu and S. S. Kozat, "Accelerating Min-Max Optimization with Application to Minimal Bounding Sphere", **IEEE Transactions on Signal Processing**, 2020\. **(Under review)** _(draft available with permission of supervisor)_
-7.  H. Gokcesu, **F. Ilhan**, O. Karaahmetoglu and S. S. Kozat, "Minimax Optimal Online Stochastic Learning for Sequences of Convex Functions under Sub-Gradient Observation Failures", **IEEE Transactions on Signal Processing**, 2020\. **(Under review)** _(draft available with permission of supervisor)_
-8.  N. M. Vural, S. F. Yilmaz, **F. Ilhan** and S. S. Kozat, "RNN-Based Online Learning: An Efficient First-Order Optimization Algorithm with a Convergence Guarantee", **IEEE Transactions on Signal Processing**, 2020\. **(Under review)** ([arXiv](https://arxiv.org/abs/2003.03601))
+1. <b>[Modeling of Spatio-Temporal Hawkes Processes with Randomized Kernels](http://fatih-ilhan.github.io/publications/STHP)</b><br>
+<b>F. Ilhan</b> and S. S. Kozat.
+<i>IEEE Transactions on Signal Processing</i>, 2020. **(Accepted)** ([IEEEXplore](https://ieeexplore.ieee.org/document/9177186)) ([code](https://github.com/fatih-ilhan/sthawkes))
+
+2. <b>[Markovian RNN: An Adaptive Time Series Prediction Network with HMM-based Switching for Nonstationary Environments](http://fatih-ilhan.github.io/publications/mRNN)</b><br>
+<b>F. Ilhan</b>, O. Karaahmetoglu and S. S. Kozat.
+<i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2020. **(Under Review)** (([arXiv](https://arxiv.org/abs/2006.10119)) ([code](https://github.com/fatih-ilhan/markov-rnn))
+
+3. <b>[Achieving Online Regression Performance of LSTMs with Simple RNNs](http://fatih-ilhan.github.io/publications/sRNN)</b><br>
+N. M. Vural, **F. Ilhan**, S. F. Yilmaz and S. S. Kozat.
+<i>IEEE Transactions on Signal Processing</i>, 2020. **(Under Review)** ([arXiv](https://arxiv.org/abs/2005.08948))
+
+4. <b>[Unsupervised Online Anomaly Detection On Irregularly Sampled Or Missing Valued Time-Series Data Using LSTM Networks](http://fatih-ilhan.github.io/publications/UOAD)</b><br>
+O. Karaahmetoglu, **F. Ilhan** and S. S. Kozat.
+<i>IEEE Transactions on Signal Processing</i>, 2020. **(Under Review)** ([arXiv](https://arxiv.org/abs/2005.12005))
+
+5. <b>[Stability of the Decoupled Extended Kalman Filter in LSTM-Based Online Learning](http://fatih-ilhan.github.io/publications/DEKF)</b><br>
+N. M. Vural, **F. Ilhan** and S. S. Kozat.
+<i>Digital Signal Processing</i>, 2020. **(Under Review)** ([arXiv](https://arxiv.org/abs/1911.12258))
+
+6. <b>[Accelerating Min-Max Optimization with Application to Minimal Bounding Sphere](http://fatih-ilhan.github.io/publications/MBS)</b><br>
+H. Gokcesu, **F. Ilhan**, K. Gokcesu and S. S. Kozat.
+<i>IEEE Transactions on Signal Processing</i>, 2020. **(Under Review)** _(draft available with permission of supervisor)_
+
+7. <b>[Minimax Optimal Online Stochastic Learning for Sequences of Convex Functions under Sub-Gradient Observation Failures](http://fatih-ilhan.github.io/publications/MOOSL)</b><br>
+H. Gokcesu, **F. Ilhan**, O. Karaahmetoglu and S. S. Kozat.
+<i>IEEE Transactions on Signal Processing</i>, 2020. **(Under Review)** _(draft available with permission of supervisor)_
+
+8. <b>[RNN-Based Online Learning: An Efficient First-Order Optimization Algorithm with a Convergence Guarantee](http://fatih-ilhan.github.io/publications/RNNOL)</b><br>
+N. M. Vural, S. F. Yilmaz, **F. Ilhan** and S. S. Kozat.
+<i>IEEE Transactions on Signal Processing</i>, 2020. **(Under Review)** ([arXiv](https://arxiv.org/abs/2003.03601))
 
 ## Working Papers
 
