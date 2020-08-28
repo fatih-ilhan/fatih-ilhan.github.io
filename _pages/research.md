@@ -7,11 +7,11 @@ author_profile: true
 
 I conduct research broadly, but not limited to, in the following topics:
 
-*   [**Machine Learning**](#ml)
-*   [**Time-series Prediction**](#tsp)
-*   [**Spatio-temporal Event Modeling**](#stem)
-*   [**Optimization**](#opt)
-*   [**Anomaly Detection**](#ad)
+*   [**Machine Learning**](#machine-learning)
+*   [**Time-series Prediction**](#time-series-prediction)
+*   [**Spatio-temporal Event Modeling**](#spatio-temporal-event-modeling)
+*   [**Optimization**](#optimization)
+*   [**Anomaly Detection**](#anomaly-detection)
 
 
 
