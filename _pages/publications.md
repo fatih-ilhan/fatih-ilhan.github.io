@@ -46,9 +46,17 @@ N. M. Vural, S. F. Yilmaz, **F. Ilhan** and S. S. Kozat.
 
 ## Working Papers
 
-1.  **F. Ilhan**, O. Karaahmetoglu and A. T. Koc, "5G Channel State Estimation in MIMO Networks with Deep Learning", to be submitted to **IEEE Transactions on Signal Processing**, 2020\. _(draft available with permission of supervisor)_
-2.  **F. Ilhan** and S. S. Kozat, "Short-Term Time Series Prediction with Side Information-based Switching using RNNs", to be submitted to **IEEE Transactions on Neural Networks and Learning Systems**, 2020\. _(draft available with permission of supervisor)_
-3.  **F. Ilhan** and S. S. Kozat, "Contextually Hierarchical Online Time Series Anomaly Detection using Weakly Labeled Data", to be submitted to **IEEE Transactions on Neural Networks and Learning Systems**, 2020\. _(draft available with permission of supervisor)_
+1. <b>[5G Channel State Estimation in MIMO Networks with Deep Learning](http://fatih-ilhan.github.io/publications/MIMO)</b><br>
+<b>F. Ilhan</b>, O. Karaahmetoglu and A. T. Koc.
+to be submitted to <i>IEEE Transactions on Signal Processing</i>, 2020. _(draft available with permission of supervisor)_
+
+2. <b>[Short-Term Time Series Prediction with Side Information-based Switching using RNNs](http://fatih-ilhan.github.io/publications/STTSP)</b><br>
+<b>F. Ilhan</b> and S. S. Kozat.
+to be submitted to <i>IEEE Transactions on Signal Processing</i>, 2020. _(draft available with permission of supervisor)_
+
+3. <b>[Contextually Hierarchical Online Time Series Anomaly Detection using Weakly Labeled Data](http://fatih-ilhan.github.io/publications/HOTSAD)</b><br>
+<b>F. Ilhan</b> and S. S. Kozat.
+to be submitted to <i>IEEE Transactions on Signal Processing</i>, 2020. _(draft available with permission of supervisor)_
 
 
 ## Conference Papers
