@@ -61,16 +61,41 @@ to be submitted to <i>IEEE Transactions on Signal Processing</i>, 2020. _(draft 
 
 ## Conference Papers
 
-1.  **F. Ilhan**, S. F. Tekin and B. Aksoy, "Spatio-Temporal Crime Prediction via Temporally Hierarchical Convolutional Neural Networks", **28th IEEE Signal Processing and Communications Applications**, 2020.
-2.  **F. Ilhan**, N. M. Vural and S. S. Kozat, "LSTM-Based Online Learning with Extended Kalman Filter Based Training Algorithm", **28th IEEE Signal Processing and Communications Applications**, 2020.
-3.  **F. Ilhan** and E. Mumcuoglu, "Performance Analysis of Semi-Supervised Learning Methods under Different Missing Label Patterns", **28th IEEE Signal Processing and Communications Applications**, 2020\. ([code](https://github.com/fatih-ilhan/ssl-exploration))
-4.  **F. Ilhan**, S. F. Yilmaz and S. S. Kozat, "A Two-Stage Multi-Class Classification Approach Based on Anomaly Detection", **28th IEEE Signal Processing and Communications Applications**, 2020\. ([code](https://github.com/fatih-ilhan/anomaly-detection-for-mcc))
-5.  N. M. Vural, B. Altas, **F. Ilhan** and S. S. Kozat, "Shortest Path Learning in Non-Stationary Environments via Online Convex Optimization", **28th IEEE Signal Processing and Communications Applications**, 2020.
-6.  N. M. Vural, B. Altas, **F. Ilhan** and S. S. Kozat, "Shortest Path Learning via Online Convex Optimization", **28th IEEE Signal Processing and Communications Applications**, 2020.
+1. <b>[Spatio-Temporal Crime Prediction via Temporally Hierarchical Convolutional Neural Networks](http://fatih-ilhan.github.io/publications/THCNN)</b><br>
+<b>F. Ilhan</b>, S. F. Tekin and B. Aksoy.
+<i>**28th IEEE Signal Processing and Communications Applications**</i>, 2020.
+
+2. <b>[LSTM-Based Online Learning with Extended Kalman Filter Based Training Algorithm](http://fatih-ilhan.github.io/publications/EKF)</b><br>
+<b>F. Ilhan</b>, N. M. Vural and S. S. Kozat.
+<i>**28th IEEE Signal Processing and Communications Applications**</i>, 2020.
+
+3. <b>[Performance Analysis of Semi-Supervised Learning Methods under Different Missing Label Patterns"](http://fatih-ilhan.github.io/publications/SSLM)</b><br>
+<b>F. Ilhan</b> and E. Mumcuoglu.
+<i>**28th IEEE Signal Processing and Communications Applications**</i>, 2020. ([code](https://github.com/fatih-ilhan/ssl-exploration))
+
+4. <b>[A Two-Stage Multi-Class Classification Approach Based on Anomaly Detection](http://fatih-ilhan.github.io/publications/TSMCC)</b><br>
+<b>F. Ilhan</b>, S. F. Yilmaz and S. S. Kozat.
+<i>**28th IEEE Signal Processing and Communications Applications**</i>, 2020. ([code](https://github.com/fatih-ilhan/anomaly-detection-for-mcc))
+
+5. <b>[Shortest Path Learning in Non-Stationary Environments via Online Convex Optimization](http://fatih-ilhan.github.io/publications/SPLNSE)</b><br>
+N. M. Vural, B. Altas, **F. Ilhan** and S. S. Kozat.
+<i>**28th IEEE Signal Processing and Communications Applications**</i>, 2020.
+
+6. <b>[Shortest Path Learning via Online Convex Optimization](http://fatih-ilhan.github.io/publications/SPL)</b><br>
+N. M. Vural, B. Altas, **F. Ilhan** and S. S. Kozat,
+<i>**28th IEEE Signal Processing and Communications Applications**</i>, 2020.
+
 
 ## Patents
 
-1.  **F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat, "Spatio-temporal Sparse Event Prediction with Hierarchical Expert Models", **Turkish Patent**, 2020.
-2.  **F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat, "Energy Consumption Forecasting with Time Series Clustering", **Turkish Patent**, 2020.
-3.  **F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat, "Crime Analysis Tool for Spatio-temporal and Contextual Link Interpretability", **Turkish Patent**, 2020.
+1. <b>[Spatio-temporal Sparse Event Prediction with Hierarchical Expert Models](http://fatih-ilhan.github.io/publications/HEM)</b><br>
+**F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat.
+<i>Turkish Patent</i>, 2020.
 
+2. <b>[Energy Consumption Forecasting with Time Series Clustering](http://fatih-ilhan.github.io/publications/ECF)</b><br>
+**F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat.
+<i>Turkish Patent</i>, 2020.
+
+3. <b>[Crime Analysis Tool for Spatio-temporal and Contextual Link Interpretability](http://fatih-ilhan.github.io/publications/CAT)</b><br>
+**F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat.
+<i>Turkish Patent</i>, 2020.
