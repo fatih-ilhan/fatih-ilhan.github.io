@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://fatih-ilhan.github.io/files/fatihilhan.jpg" alt="Photo" style="width: 450px;"/> 
-</p>
-
-
 # Fatih Ilhan
 
 ### M.Sc. Student, Department of Electrical and Electronics Engineering
