@@ -1,2 +1,1 @@
-# fatihilhan.github.io
-Personal Website
+fatih-ilhan.github.io
