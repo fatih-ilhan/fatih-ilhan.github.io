@@ -69,7 +69,7 @@ to be submitted to <i>IEEE Transactions on Signal Processing</i>, 2020. _(draft 
 <b>F. Ilhan</b>, N. M. Vural and S. S. Kozat.
 <i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
 
-3. <b>[Performance Analysis of Semi-Supervised Learning Methods under Different Missing Label Patterns"](http://fatih-ilhan.github.io/publications/SSLM)</b><br>
+3. <b>[Performance Analysis of Semi-Supervised Learning Methods under Different Missing Label Patterns](http://fatih-ilhan.github.io/publications/SSLM)</b><br>
 <b>F. Ilhan</b> and E. Mumcuoglu.
 <i>28th IEEE Signal Processing and Communications Applications</i>, 2020. ([code](https://github.com/fatih-ilhan/ssl-exploration))
 
