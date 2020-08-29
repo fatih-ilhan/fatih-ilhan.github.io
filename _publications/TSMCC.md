@@ -7,8 +7,8 @@ permalink: /publications/TSMCC
 
 [[code]](https://github.com/fatih-ilhan/anomaly-detection-for-mcc)
 
-##Abstract
 
+## Abstract
 In this study, we propose a new two-stage machine
 learning based training algorithm that aims increasing multiclass
 classification performance through incorporating anomaly

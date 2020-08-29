@@ -7,8 +7,8 @@ permalink: /publications/SSLM
 
 [[code]](https://github.com/fatih-ilhan/ssl-exploration)
 
-##Abstract
 
+## Abstract
 In this study, we analyze the performance of
 semi-supervised learning methods under different missing label
 patterns and missing label proportions. Some semi-supervised

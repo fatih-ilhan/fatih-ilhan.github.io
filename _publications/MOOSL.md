@@ -7,8 +7,8 @@ H. Gokcesu, <b>F. Ilhan</b>, O. Karaahmetoglu and S. S. Kozat, "Minimax Optimal 
 
 <i>(draft available with permission of supervisor)</i>
 
-##Abstract
 
+## Abstract
 We study online convex optimization under stochastic sub-gradient observation faults, where we introduce adaptive algorithms with minimax optimal regret guarantees.
 We specifically study scenarios where our sub-gradient observations can be noisy or even completely missing in a stochastic manner.
 To this end, we propose algorithms based on

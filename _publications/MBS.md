@@ -7,8 +7,8 @@ H. Gokcesu, <b>F. Ilhan</b>, K. Gokcesu and S. S. Kozat, "Accelerating Min-Max O
 
 <i>(draft available with permission of supervisor)</i>
 
-## Abstract
 
+## Abstract
 We study the min-max optimization problem where each function contributing to the max operation is strongly convex
 and smooth with bounded gradient in the search domain. By smoothing the max operator, we show the
 ability to achieve an arbitrarily small positive optimality gap of $\delta$ in $\tilde{O}(\frac{1}{\sqrt{\delta}})$ 

@@ -5,8 +5,8 @@ permalink: /publications/THCNN
 ---
 <b>F. Ilhan</b>, N. M. Vural and S. S. Kozat, "LSTM-Based Online Learning with Extended Kalman Filter Based Training Algorithm", <i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
 
-##Abstract
 
+## Abstract
 In this paper, we propose a new deep learning
 based model that uses convolutional neural networks for spatiotemporal
 crime prediction. To learn the temporal pattern of

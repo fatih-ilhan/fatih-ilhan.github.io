@@ -5,8 +5,8 @@ permalink: /publications/EKF
 ---
 <b>F. Ilhan</b>, N. M. Vural and S. S. Kozat, "LSTM-Based Online Learning with Extended Kalman Filter Based Training Algorithm", <i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
 
-##Abstract
 
+## Abstract
 In this study, we work on online learning with long
 short term memory (LSTM) based networks is investigated. For
 LSTM-based online learning, a computationally efficient training
