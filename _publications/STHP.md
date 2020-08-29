@@ -9,7 +9,7 @@ permalink: /publications/STHP
 
 
 ## Abstract
-<img align="right" src="https://fatih-ilhan.github.io/images/profile.png" style="width: 450px;">
+
 We investigate spatio-temporal event analysis using point processes. 
 Inferring the dynamics of event sequences spatiotemporally has many 
 practical applications including crime prediction, social media analysis, and traffic forecasting. 
