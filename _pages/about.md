@@ -11,14 +11,13 @@ redirect_from:
 # Fatih Ilhan
 
 ### M.Sc. Student, Department of Electrical and Electronics Engineering
-
 ### Bilkent University, Ankara 06800, Turkey
-
 ### E-mail: [filhan@ee.bilkent.edu.tr](mailto:filhan@ee.bilkent.edu.tr)
 
 
 <br>
 
+## Bio
 
 I received my B.Sc. degree with high honors, and graduated with a CGPA of **3.81/4.00** from **Bilkent University**, Turkey in June 2019\. I am currently an **M.Sc. student** at the Department of Electrical and Electronics Engineering, **Bilkent University**, under the supervision of  [**Prof. Suleyman S. Kozat**](http://kilyos.ee.bilkent.edu.tr/~kozat/) .
 
