@@ -19,21 +19,14 @@ redirect_from:
 
 ## Bio
 
-<div style="text-align: justify">
 I received my B.Sc. degree with high honors, and graduated with a CGPA of **3.81/4.00** from **Bilkent University**, Turkey in June 2019\. I am currently an **M.Sc. student** at the Department of Electrical and Electronics Engineering, **Bilkent University**, under the supervision of  [**Prof. Suleyman S. Kozat**](http://kilyos.ee.bilkent.edu.tr/~kozat/) .
-</div>
 
-<div style="text-align: justify">
 During the senior year of my B.Sc. studies, I conducted research on unsupervised video anomaly detection and spatio-temporal event modeling with point processes under the supervision of  [**Prof. Suleyman S. Kozat**](http://kilyos.ee.bilkent.edu.tr/~kozat/) as an undergraduate researcher. During the same period, I have also worked as a part-time data scientist at [**DataBoss Analytics Inc.**](http://data-boss.com.tr/) , where I have been working as a **machine learning engineer** since June 2019.
-</div>
 
-<div style="text-align: justify">
 I have achieved the **191st rank nationwide** in the National University Entrance Examinations among 2 million students. During my B.Sc. studies, I have been awarded the **Comprehensive Fellowship** by Bilkent University and **JASSO Scholarship** for my exchange studies in **Nagoya University**, Japan. During my M.Sc. studies, I have been awarded the **Full Scholarship** by Bilkent University and **TUBITAK Scholarship** by The Scientific and Technological Research Council of Turkey.
-</div>
 
-<div style="text-align: justify">
 I have authored [**8 journal papers**](#journal-papers) in highly respected IEEE Transactions, [**6 conference papers**](#conference-papers) in refereed high impact conference proceedings and [**3 patents**](#patents). I have also contributed to [**13 open-source software projects**](http://github.com/fatih-ilhan) on Github. My research interests include machine learning, convex/non-convex optimization, online learning and their applications on time-series prediction, spatio-temporal forecasting and anomaly detection.
-</div>
+
 
 ## Journal Papers
 
