@@ -85,17 +85,18 @@ N. M. Vural, B. Altas, **F. Ilhan** and S. S. Kozat.
 N. M. Vural, B. Altas, **F. Ilhan** and S. S. Kozat,
 <i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
 
-
+<!--
 ## Patents
 
-1. <b>Spatio-temporal Sparse Event Prediction with Hierarchical Expert Models</b>
+1. <b>[Spatio-temporal Sparse Event Prediction with Hierarchical Expert Models](http://fatih-ilhan.github.io/publications/HEM)</b><br>
 **F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat.
 <i>Turkish Patent</i>, 2020.
 
-2. <b>Energy Consumption Forecasting with Time Series Clustering</b>
+2. <b>[Energy Consumption Forecasting with Time Series Clustering](http://fatih-ilhan.github.io/publications/ECF)</b><br>
 **F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat.
 <i>Turkish Patent</i>, 2020.
 
-3. <b>Crime Analysis Tool for Spatio-temporal and Contextual Link Interpretability</b>
+3. <b>[Crime Analysis Tool for Spatio-temporal and Contextual Link Interpretability](http://fatih-ilhan.github.io/publications/CAT)</b><br>
 **F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat.
 <i>Turkish Patent</i>, 2020.
+-->
