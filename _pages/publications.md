@@ -18,7 +18,7 @@ author_profile: true
 
 2. <b>[Markovian RNN: An Adaptive Time Series Prediction Network with HMM-based Switching for Nonstationary Environments](http://fatih-ilhan.github.io/publications/mRNN)</b><br>
 <b>F. Ilhan</b>, O. Karaahmetoglu, Ismail Balaban and S. S. Kozat.
-<i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2020. **(Under Review)** (([arXiv](https://arxiv.org/abs/2006.10119)) ([code](https://github.com/fatih-ilhan/markov-rnn))
+<i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2020. **(Under Review)** ([arXiv](https://arxiv.org/abs/2006.10119)) ([code](https://github.com/fatih-ilhan/markov-rnn))
 
 3. <b>[Achieving Online Regression Performance of LSTMs with Simple RNNs](http://fatih-ilhan.github.io/publications/sRNN)</b><br>
 N. M. Vural, **F. Ilhan**, S. F. Yilmaz and S. S. Kozat.

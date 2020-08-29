@@ -5,7 +5,7 @@ permalink: /publications/STHP
 ---
 **F. Ilhan** and S. S. Kozat, "Modeling of Spatio-Temporal Hawkes Processes with Randomized Kernels", <i>IEEE Transactions on Signal Processing</i>, 2020.
 
-[[PDF]](https://ieeexplore.ieee.org/document/9177186)
+[[PDF]](https://ieeexplore.ieee.org/document/9177186) [[code]](https://github.com/fatih-ilhan/sthawkes)
 
 
 ## Abstract
