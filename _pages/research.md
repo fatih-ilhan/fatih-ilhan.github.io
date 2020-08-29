@@ -17,8 +17,6 @@ I conduct research broadly, but not limited to, in the following topics:
 
 ## Machine Learning
 
-Publications on this topic include:
-
 1. <b>[Modeling of Spatio-Temporal Hawkes Processes with Randomized Kernels](http://fatih-ilhan.github.io/publications/STHP)</b><br>
 <b>F. Ilhan</b> and S. S. Kozat.
 <i>IEEE Transactions on Signal Processing</i>, 2020. **(Accepted)** ([IEEEXplore](https://ieeexplore.ieee.org/document/9177186)) ([code](https://github.com/fatih-ilhan/sthawkes))
@@ -46,8 +44,6 @@ N. M. Vural, **F. Ilhan** and S. S. Kozat.
 
 ## Time-series Prediction
 
-Publications on this topic include:
-
 1. <b>[Markovian RNN: An Adaptive Time Series Prediction Network with HMM-based Switching for Nonstationary Environments](http://fatih-ilhan.github.io/publications/mRNN)</b><br>
 <b>F. Ilhan</b>, O. Karaahmetoglu, Ismail Balaban and S. S. Kozat.
 <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2020. **(Under Review)** (([arXiv](https://arxiv.org/abs/2006.10119)) ([code](https://github.com/fatih-ilhan/markov-rnn))
@@ -65,8 +61,6 @@ Publications on this topic include:
 <i>Turkish Patent</i>, 2020.
 
 ## Spatio-temporal Event Modeling
-
-Publications on this topic include:
 
 1. <b>[Modeling of Spatio-Temporal Hawkes Processes with Randomized Kernels](http://fatih-ilhan.github.io/publications/STHP)</b><br>
 <b>F. Ilhan</b> and S. S. Kozat.
@@ -86,8 +80,6 @@ Publications on this topic include:
 
 ## Optimization
 
-Publications on this topic include:
-
 1. <b>[Accelerating Min-Max Optimization with Application to Minimal Bounding Sphere](http://fatih-ilhan.github.io/publications/MBS)</b><br>
 H. Gokcesu, **F. Ilhan**, K. Gokcesu and S. S. Kozat.
 <i>IEEE Transactions on Signal Processing</i>, 2020. **(Under Review)** _(draft available with permission of supervisor)_
@@ -105,8 +97,6 @@ N. M. Vural, B. Altas, **F. Ilhan** and S. S. Kozat,
 <i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
 
 ## Anomaly Detection
-
-Publications on this topic include:
 
 1. <b>[A Two-Stage Multi-Class Classification Approach Based on Anomaly Detection](http://fatih-ilhan.github.io/publications/TSMCC)</b><br>
 <b>F. Ilhan</b>, S. F. Yilmaz and S. S. Kozat.
