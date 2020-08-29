@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fatih İlhan"
+title                    : "Fatih Ilhan"
 title_separator          : "-"
-name                     : &name "Fatih İlhan"
+name                     : &name "Fatih Ilhan"
 description              : &description "M.Sc Student at Bilkent University"
 url                      : https://fatih-ilhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/fatih-ilhan-bab356118/"
+  linkedin         : "fatih-ilhan-bab356118/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -211,7 +211,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _teaching
   - scope:
       path: ""
