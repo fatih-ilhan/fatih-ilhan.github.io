@@ -8,7 +8,6 @@ author_profile: true
 *   [**Journal Papers**](#journal-papers)
 *   [**Working Papers**](#working-papers)
 *   [**Conference Papers**](#conference-papers)
-*   [**Patents**](#patents)
 
 ## Journal Papers
 
@@ -52,11 +51,11 @@ to be submitted to <i>IEEE Transactions on Signal Processing</i>, 2020. _(draft 
 
 2. <b>[Short-Term Time Series Prediction with Side Information-based Switching using RNNs](http://fatih-ilhan.github.io/publications/STTSP)</b><br>
 <b>F. Ilhan</b> and S. S. Kozat.
-to be submitted to <i>IEEE Transactions on Signal Processing</i>, 2020. _(draft available with permission of supervisor)_
+to be submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2020. _(draft available with permission of supervisor)_
 
 3. <b>[Contextually Hierarchical Online Time Series Anomaly Detection using Weakly Labeled Data](http://fatih-ilhan.github.io/publications/HOTSAD)</b><br>
 <b>F. Ilhan</b> and S. S. Kozat.
-to be submitted to <i>IEEE Transactions on Signal Processing</i>, 2020. _(draft available with permission of supervisor)_
+to be submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2020. _(draft available with permission of supervisor)_
 
 
 ## Conference Papers
