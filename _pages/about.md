@@ -12,7 +12,7 @@ redirect_from:
 
 ### M.Sc. Student, Department of Electrical and Electronics Engineering
 ### Bilkent University, Ankara 06800, Turkey
-### E-mail: <img src="https://fatih-ilhan.github.io/files/email.JPG?raw=true" alt="Photo" style="width: 170px;"/> 
+### E-mail: <img src="https://fatih-ilhan.github.io/files/email.JPG?raw=true" alt="Photo" style="width: 185px;"/> 
 
 
 <br>
