@@ -175,12 +175,12 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: #ff7000;
+  background: $background-color;
 
   a {
     display: block;
-    margin: 2rem 2rem;
-    padding: 0.5rem 0.5rem;
+    margin: 0 2rem;
+    padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
 
