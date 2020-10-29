@@ -25,7 +25,7 @@ redirect_from:
 
 <div style="text-align: justify"><p>I have achieved the <b>191st rank nationwide</b> in the National University Entrance Examinations among 2 million students. During my B.Sc. studies, I have been awarded the <b>Comprehensive Scholarship</b> by Bilkent University and <b>JASSO Scholarship</b> for my exchange studies in <b>Nagoya University</b> Japan. During my M.Sc. studies, I have been awarded the <b>Full Scholarship</b> by Bilkent University and <b>TUBITAK Scholarship</b> by The Scientific and Technological Research Council of Turkey.</p></div>
 
-<div style="text-align: justify"><p>I have authored <a href="#journal-papers">[**11 journal papers**](#journal-papers)</a> (1 accepted, 2 accepted to the second round, 5 under review, 3 in draft) in highly respected IEEE Transactions, [**9 conference papers**](#conference-papers) (6 accepted, 3 in draft) in refereed high impact conference proceedings and [**3 patents**](#patents). I have also contributed to [**13 open-source software projects**](http://github.com/fatih-ilhan) on Github. My research interests include machine learning, convex/non-convex optimization, online learning and their applications on time-series prediction, spatio-temporal forecasting and anomaly detection.</p></div>
+<div style="text-align: justify"><p>I have authored <a href="#journal-papers"><b>11 journal papers**</b></a> (1 accepted, 2 accepted to the second round, 5 under review, 3 in draft) in highly respected IEEE Transactions, <a href="#conference-papers"><b>9 conference papers</b></a> (6 accepted, 3 in draft) in refereed high impact conference proceedings and <a href="##patents"><b>3 patents</b></a>. I have also contributed to <a href=http://github.com/fatih-ilhan"><b>13 open-source software projects</b></a> on Github. My research interests include machine learning, convex/non-convex optimization, online learning and their applications on time-series prediction, spatio-temporal forecasting and anomaly detection.</p></div>
 
 
 <h2 id="journal-papers"> Journal Papers</h2>
@@ -48,7 +48,7 @@ redirect_from:
 5.  **F. Ilhan**, "Memory-Augmented Multi-Switching Time Series Prediction", to be submitted to **Advances in Neural Information Processing Systems 34**, 2021\. _(draft available with permission of supervisor)_
 6.  **F. Ilhan**, "Causality Inference for Multivariate Time Series Prediction", to be submitted to **Advances in Neural Information Processing Systems 34**, 2021\. _(draft available with permission of supervisor)_
 
-## Conference Papers
+<h2 id="conference-papers"> Conference Papers</h2>
 
 1.  **F. Ilhan**, S. F. Tekin and B. Aksoy, "Spatio-Temporal Crime Prediction via Temporally Hierarchical Convolutional Neural Networks", **28th IEEE Signal Processing and Communications Applications**, 2020.
 2.  **F. Ilhan**, N. M. Vural and S. S. Kozat, "LSTM-Based Online Learning with Extended Kalman Filter Based Training Algorithm", **28th IEEE Signal Processing and Communications Applications**, 2020.
@@ -58,7 +58,7 @@ redirect_from:
 6.  N. M. Vural, B. Altas, **F. Ilhan** and S. S. Kozat, "Shortest Path Learning via Online Convex Optimization", **28th IEEE Signal Processing and Communications Applications**, 2020.
 
 
-## Patents
+<h2 id="patents> Patents</h2>
 
 1.  **F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat, "Spatio-temporal Sparse Event Prediction with Hierarchical Expert Models", **Turkish Patent**, 2020.
 2.  **F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat, "Energy Consumption Forecasting with Time Series Clustering", **Turkish Patent**, 2020.
