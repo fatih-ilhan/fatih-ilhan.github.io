@@ -7,7 +7,7 @@ permalink: /publications/THCNN
 
 
 ## Abstract
-In this paper, we propose a new deep learning
+<div style="text-align: justify">In this paper, we propose a new deep learning
 based model that uses convolutional neural networks for spatiotemporal
 crime prediction. To learn the temporal pattern of
 crime events, we employ a temporally hierarchical structure that
@@ -17,4 +17,4 @@ events over future crime risk. In the results section, our model is
 compared with classical methods and the performance is analyzed
 on publicly available Chicago and Los Angeles crime datasets.
 The proposed model significantly improves the performance
-compared to the traditional methods.
+compared to the traditional methods.</div>
