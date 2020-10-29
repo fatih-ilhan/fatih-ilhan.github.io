@@ -10,7 +10,7 @@ permalink: /publications/STHP
 
 ## Abstract
 
-We investigate spatio-temporal event analysis using point processes. 
+<div style="text-align: justify">We investigate spatio-temporal event analysis using point processes. 
 Inferring the dynamics of event sequences spatiotemporally has many 
 practical applications including crime prediction, social media analysis, and traffic forecasting. 
 In particular, we focus on spatio-temporal Hawkes processes that are commonly used 
@@ -26,5 +26,5 @@ and orthonormality constraints. The experiment results show the improvements
 achieved by the introduced method in terms of fitting capability in synthetic and real datasets 
 with respect to the conventional inference methods in the spatio-temporal Hawkes process literature. 
 We also analyze the triggering interactions between event types and how their dynamics change in 
-space and time through the interpretation of learned parameters.
+space and time through the interpretation of learned parameters.</div>
 
