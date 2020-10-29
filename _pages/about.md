@@ -58,7 +58,7 @@ redirect_from:
 6.  N. M. Vural, B. Altas, **F. Ilhan** and S. S. Kozat, "Shortest Path Learning via Online Convex Optimization", **28th IEEE Signal Processing and Communications Applications**, 2020.
 
 
-<h2 id="patents> Patents</h2>
+<h2 id="patents"> Patents</h2>
 
 1.  **F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat, "Spatio-temporal Sparse Event Prediction with Hierarchical Expert Models", **Turkish Patent**, 2020.
 2.  **F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat, "Energy Consumption Forecasting with Time Series Clustering", **Turkish Patent**, 2020.
