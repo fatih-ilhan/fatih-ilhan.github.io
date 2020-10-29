@@ -59,7 +59,7 @@ $background-color           : mix(#fff, $masthead-background-color, 75%);
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
-$border-color               : mix(#000000, $background-color, 40%);
+$border-color               : mix(#000000, $masthead-background-color, 30%);
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
