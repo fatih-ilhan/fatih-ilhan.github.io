@@ -5,7 +5,7 @@ permalink: /publications/DEKF
 ---
 N. M. Vural, <b>F. Ilhan</b> and S. S. Kozat, "Stability of the Decoupled Extended Kalman Filter in LSTM-Based Online Learning", <i>Digital Signal Processing</i>, 2020.
 
-[[PDF]](https://arxiv.org/abs/1911.12258)
+[[arXiv]](https://arxiv.org/abs/1911.12258)
 
 
 ## Abstract

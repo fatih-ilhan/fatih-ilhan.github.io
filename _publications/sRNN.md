@@ -5,7 +5,7 @@ permalink: /publications/sRNN
 ---
 N. M. Vural, <b>F. Ilhan</b>, S. F. Yilmaz and S. S. Kozat, "Achieving Online Regression Performance of LSTMs with Simple RNNs", <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2020.
 
-[[PDF]](https://arxiv.org/abs/2005.08948)
+[[arXiv]](https://arxiv.org/abs/2005.08948)
 
 
 ## Abstract

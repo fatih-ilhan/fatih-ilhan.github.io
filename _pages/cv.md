@@ -10,3 +10,4 @@ redirect_from:
 {% include base_path %}
 
 <embed src="http://fatih-ilhan.github.io/files/cv.pdf" width="650" height="1800" type='application/pdf'>
+[

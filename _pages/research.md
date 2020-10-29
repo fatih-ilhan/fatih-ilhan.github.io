@@ -41,6 +41,13 @@ N. M. Vural, **F. Ilhan** and S. S. Kozat.
 <b>F. Ilhan</b>, N. M. Vural and S. S. Kozat.
 <i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
 
+7. <b>[Memory-Augmented Multi-Switching Time Series Prediction](http://fatih-ilhan.github.io/publications/MEMSW)</b><br>
+<b>F. Ilhan</b>.
+to be submitted to <i>Advances in Neural Information Processing Systems 34</i>, 2021. _(draft available with permission of supervisor)_
+
+8. <b>[Causality Inference for Multivariate Time Series Prediction](http://fatih-ilhan.github.io/publications/CAUSW)</b><br>
+<b>F. Ilhan</b>.
+to be submitted to <i>Advances in Neural Information Processing Systems 34</i>, 2021. _(draft available with permission of supervisor)_
 
 ## Time-series Prediction
 
@@ -59,6 +66,10 @@ N. M. Vural, **F. Ilhan** and S. S. Kozat.
 4. <b>[Energy Consumption Forecasting with Time Series Clustering](http://fatih-ilhan.github.io/publications/ECF)</b><br>
 **F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat.
 <i>Turkish Patent</i>, 2020.
+
+5. <b>[Self-Supervised Multi-Contextual Representation Learning for Time Series](http://fatih-ilhan.github.io/publications/SSMCRLT)</b><br>
+<b>F. Ilhan</b>.
+to be submitted to <i>Advances in Neural Information Processing Systems 34</i>, 2021. _(draft available with permission of supervisor)_
 
 ## Spatio-temporal Event Modeling
 

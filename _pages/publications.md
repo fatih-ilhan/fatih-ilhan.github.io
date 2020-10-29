@@ -57,6 +57,17 @@ to be submitted to <i>IEEE Transactions on Neural Networks and Learning Systems<
 <b>F. Ilhan</b> and S. S. Kozat.
 to be submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2020. _(draft available with permission of supervisor)_
 
+4. <b>[Self-Supervised Multi-Contextual Representation Learning for Time Series](http://fatih-ilhan.github.io/publications/SSMCRLT)</b><br>
+<b>F. Ilhan</b>.
+to be submitted to <i>Advances in Neural Information Processing Systems 34</i>, 2021. _(draft available with permission of supervisor)_
+
+5. <b>[Memory-Augmented Multi-Switching Time Series Prediction](http://fatih-ilhan.github.io/publications/MEMSW)</b><br>
+<b>F. Ilhan</b>.
+to be submitted to <i>Advances in Neural Information Processing Systems 34</i>, 2021. _(draft available with permission of supervisor)_
+
+6. <b>[Causality Inference for Multivariate Time Series Prediction](http://fatih-ilhan.github.io/publications/CAUSW)</b><br>
+<b>F. Ilhan</b>.
+to be submitted to <i>Advances in Neural Information Processing Systems 34</i>, 2021. _(draft available with permission of supervisor)_
 
 ## Conference Papers
 

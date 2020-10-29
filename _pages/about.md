@@ -25,7 +25,7 @@ During the senior year of my B.Sc. studies, I conducted research on unsupervised
 
 I have achieved the **191st rank nationwide** in the National University Entrance Examinations among 2 million students. During my B.Sc. studies, I have been awarded the **Comprehensive Scholarship** by Bilkent University and **JASSO Scholarship** for my exchange studies in **Nagoya University**, Japan. During my M.Sc. studies, I have been awarded the **Full Scholarship** by Bilkent University and **TUBITAK Scholarship** by The Scientific and Technological Research Council of Turkey.
 
-I have authored [**8 journal papers**](#journal-papers) in highly respected IEEE Transactions, [**6 conference papers**](#conference-papers) in refereed high impact conference proceedings and [**3 patents**](#patents). I have also contributed to [**13 open-source software projects**](http://github.com/fatih-ilhan) on Github. My research interests include machine learning, convex/non-convex optimization, online learning and their applications on time-series prediction, spatio-temporal forecasting and anomaly detection.
+I have authored [**11 journal papers**](#journal-papers) (1 accepted, 2 accepted to the second round, 5 under review, 3 in draft) in highly respected IEEE Transactions, [**9 conference papers**](#conference-papers) (6 accepted, 3 in draft) in refereed high impact conference proceedings and [**3 patents**](#patents). I have also contributed to [**13 open-source software projects**](http://github.com/fatih-ilhan) on Github. My research interests include machine learning, convex/non-convex optimization, online learning and their applications on time-series prediction, spatio-temporal forecasting and anomaly detection.
 
 
 ## Journal Papers
@@ -41,9 +41,12 @@ I have authored [**8 journal papers**](#journal-papers) in highly respected IEEE
 
 ## Working Papers
 
-1.  **F. Ilhan**, O. Karaahmetoglu and A. T. Koc, "5G Channel State Estimation in MIMO Networks with Deep Learning", to be submitted to **IEEE Transactions on Signal Processing**, 2020\. _(draft available with permission of supervisor)_
-2.  **F. Ilhan** and S. S. Kozat, "Short-Term Time Series Prediction with Side Information-based Switching using RNNs", to be submitted to **IEEE Transactions on Neural Networks and Learning Systems**, 2020\. _(draft available with permission of supervisor)_
-3.  **F. Ilhan** and S. S. Kozat, "Contextually Hierarchical Online Time Series Anomaly Detection using Weakly Labeled Data", to be submitted to **IEEE Transactions on Neural Networks and Learning Systems**, 2020\. _(draft available with permission of supervisor)_
+1.  **F. Ilhan**, O. Karaahmetoglu and A. T. Koc, "5G Channel State Estimation in MIMO Networks with Deep Learning", to be submitted to **IEEE Transactions on Signal Processing**, 2021\. _(draft available with permission of supervisor)_
+2.  **F. Ilhan** and S. S. Kozat, "Short-Term Time Series Prediction with Side Information-based Switching using RNNs", to be submitted to **IEEE Transactions on Neural Networks and Learning Systems**, 2021\. _(draft available with permission of supervisor)_
+3.  **F. Ilhan** and S. S. Kozat, "Contextually Hierarchical Online Time Series Anomaly Detection using Weakly Labeled Data", to be submitted to **IEEE Transactions on Neural Networks and Learning Systems**, 2021\. _(draft available with permission of supervisor)_
+4.  **F. Ilhan**, "Self-Supervised Multi-Contextual Representation Learning for Time Series", to be submitted to "Advances in Neural Information Processing Systems 34", 2021\. _(draft available with the permission of supervisor)_
+5.  **F. Ilhan**, "Memory-Augmented Multi-Switching Time Series Prediction", to be submitted to "Advances in Neural Information Processing Systems 34", 2021\. _(draft available with the permission of supervisor)_
+6.  **F. Ilhan**, "Causality Inference for Multivariate Time Series Prediction", to be submitted to "Advances in Neural Information Processing Systems 34", 2021\. _(draft available with the permission of supervisor)_
 
 ## Conference Papers
 
