@@ -7,7 +7,7 @@ permalink: /publications/EKF
 
 
 ## Abstract
-In this study, we work on online learning with long
+<div style="text-align: justify">In this study, we work on online learning with long
 short term memory (LSTM) based networks is investigated. For
 LSTM-based online learning, a computationally efficient training
 algorithm based on extended Kalman filter (EKF) is proposed.
@@ -16,4 +16,4 @@ by the proposed algorithm through comparing with conventional
 LSTM methods in simulations. Results particularly show that the
 proposed algorithm achieves very similar performance with conventional
 methods in 25-40 times shorter training time depending
-on the network complexity.
+on the network complexity.</div>
