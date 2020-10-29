@@ -28,7 +28,7 @@ redirect_from:
 <div style="text-align: justify"><p>I have authored [**11 journal papers**](#journal-papers) (1 accepted, 2 accepted to the second round, 5 under review, 3 in draft) in highly respected IEEE Transactions, [**9 conference papers**](#conference-papers) (6 accepted, 3 in draft) in refereed high impact conference proceedings and [**3 patents**](#patents). I have also contributed to [**13 open-source software projects**](http://github.com/fatih-ilhan) on Github. My research interests include machine learning, convex/non-convex optimization, online learning and their applications on time-series prediction, spatio-temporal forecasting and anomaly detection.</p></div>
 
 
-## Journal Papers
+<h1> Journal Papers</h1>
 
 1.  **F. Ilhan** and S. S. Kozat, "Modeling of Spatio-Temporal Hawkes Processes with Randomized Kernels", **IEEE Transactions on Signal Processing**, 2020\. _(Accepted)_ ([IEEEXplore](https://ieeexplore.ieee.org/document/9177186)) ([code](https://github.com/fatih-ilhan/sthawkes))
 2.  **F. Ilhan**, O. Karaahmetoglu and S. S. Kozat, "Markovian RNN: An Adaptive Time Series Prediction Network with HMM-based Switching for Nonstationary Environments", **IEEE Transactions on Neural Networks and Learning Systems**, 2020\. _(Under review)_ ([arXiv](https://arxiv.org/abs/2006.10119)) ([code](https://github.com/fatih-ilhan/markov-rnn))
