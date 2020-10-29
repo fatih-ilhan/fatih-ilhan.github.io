@@ -19,7 +19,7 @@ redirect_from:
 
 ## Bio
 
-<div style="text-align: right">I received my B.Sc. degree with high honors, and graduated with a CGPA of **3.81/4.00** from **Bilkent University**, Turkey in June 2019\. I am currently an **M.Sc. student** at the Department of Electrical and Electronics Engineering, **Bilkent University**, under the supervision of  [**Prof. Suleyman S. Kozat**](http://kilyos.ee.bilkent.edu.tr/~kozat/) .
+<div style="text-align: justify">I received my B.Sc. degree with high honors, and graduated with a CGPA of **3.81/4.00** from **Bilkent University**, Turkey in June 2019\. I am currently an **M.Sc. student** at the Department of Electrical and Electronics Engineering, **Bilkent University**, under the supervision of  [**Prof. Suleyman S. Kozat**](http://kilyos.ee.bilkent.edu.tr/~kozat/) .
 
 During the senior year of my B.Sc. studies, I conducted research on unsupervised video anomaly detection and spatio-temporal event modeling with point processes under the supervision of  [**Prof. Suleyman S. Kozat**](http://kilyos.ee.bilkent.edu.tr/~kozat/) as an undergraduate researcher. During the same period, I have also worked as a part-time data scientist at [**DataBoss Analytics Inc.**](http://data-boss.com.tr/) , where I have been working as a **machine learning engineer** since June 2019.
 
