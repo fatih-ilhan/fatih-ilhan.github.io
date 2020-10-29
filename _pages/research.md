@@ -43,11 +43,11 @@ N. M. Vural, **F. Ilhan** and S. S. Kozat.
 
 7. <b>[Memory-Augmented Multi-Switching Time Series Prediction](http://fatih-ilhan.github.io/publications/MEMSW)</b><br>
 <b>F. Ilhan</b>.
-to be submitted to <i>Advances in Neural Information Processing Systems 34</i>, 2021. _(draft available with permission of supervisor)_
+to be submitted to <i>Advances in Neural Information Processing Systems</i>, 2021. _(draft available with permission of supervisor)_
 
 8. <b>[Causality Inference for Multivariate Time Series Prediction](http://fatih-ilhan.github.io/publications/CAUSW)</b><br>
 <b>F. Ilhan</b>.
-to be submitted to <i>Advances in Neural Information Processing Systems 34</i>, 2021. _(draft available with permission of supervisor)_
+to be submitted to <i>Advances in Neural Information Processing Systems</i>, 2021. _(draft available with permission of supervisor)_
 
 ## Time-series Prediction
 
@@ -69,7 +69,7 @@ to be submitted to <i>Advances in Neural Information Processing Systems 34</i>, 
 
 5. <b>[Self-Supervised Multi-Contextual Representation Learning for Time Series](http://fatih-ilhan.github.io/publications/SSMCRLT)</b><br>
 <b>F. Ilhan</b>.
-to be submitted to <i>Advances in Neural Information Processing Systems 34</i>, 2021. _(draft available with permission of supervisor)_
+to be submitted to <i>Advances in Neural Information Processing Systems</i>, 2021. _(draft available with permission of supervisor)_
 
 ## Spatio-temporal Event Modeling
 
