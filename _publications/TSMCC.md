@@ -9,7 +9,7 @@ permalink: /publications/TSMCC
 
 
 ## Abstract
-In this study, we propose a new two-stage machine
+<div style="text-align: justify">In this study, we propose a new two-stage machine
 learning based training algorithm that aims increasing multiclass
 classification performance through incorporating anomaly
 detection. In the first stage, separate anomaly detectors are
@@ -18,4 +18,4 @@ using the obtained anomaly scores obtained during the first stage
 in addition to the raw features. The performance of the proposed
 approach is analyzed over numerous datasets and compared with
 traditional methods. The proposed model significantly improves
-the performance of traditional multi-class classifiers.
+the performance of traditional multi-class classifiers.</div>
