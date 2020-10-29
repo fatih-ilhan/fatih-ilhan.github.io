@@ -9,7 +9,7 @@ permalink: /publications/SSLM
 
 
 ## Abstract
-In this study, we analyze the performance of
+<div style="text-align: justify">In this study, we analyze the performance of
 semi-supervised learning methods under different missing label
 patterns and missing label proportions. Some semi-supervised
 learning methods make several assumptions about the missingness
@@ -25,4 +25,4 @@ models with semi-supervised expectation maximization (GMMSSEM).
 We also compare these methods with their supervised
 counterparts in terms of performance. Results show that missing
 label patterns and proportions have significant effects on
-performance.
+performance.</div>
