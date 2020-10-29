@@ -44,9 +44,9 @@ I have authored [**11 journal papers**](#journal-papers) (1 accepted, 2 accepted
 1.  **F. Ilhan**, O. Karaahmetoglu and A. T. Koc, "5G Channel State Estimation in MIMO Networks with Deep Learning", to be submitted to **IEEE Transactions on Signal Processing**, 2021\. _(draft available with permission of supervisor)_
 2.  **F. Ilhan** and S. S. Kozat, "Short-Term Time Series Prediction with Side Information-based Switching using RNNs", to be submitted to **IEEE Transactions on Neural Networks and Learning Systems**, 2021\. _(draft available with permission of supervisor)_
 3.  **F. Ilhan** and S. S. Kozat, "Contextually Hierarchical Online Time Series Anomaly Detection using Weakly Labeled Data", to be submitted to **IEEE Transactions on Neural Networks and Learning Systems**, 2021\. _(draft available with permission of supervisor)_
-4.  **F. Ilhan**, "Self-Supervised Multi-Contextual Representation Learning for Time Series", to be submitted to "**Advances in Neural Information Processing Systems 34**", 2021\. _(draft available with permission of supervisor)_
-5.  **F. Ilhan**, "Memory-Augmented Multi-Switching Time Series Prediction", to be submitted to "**Advances in Neural Information Processing Systems 34**", 2021\. _(draft available with permission of supervisor)_
-6.  **F. Ilhan**, "Causality Inference for Multivariate Time Series Prediction", to be submitted to "**Advances in Neural Information Processing Systems 34**", 2021\. _(draft available with permission of supervisor)_
+4.  **F. Ilhan**, "Self-Supervised Multi-Contextual Representation Learning for Time Series", to be submitted to **Advances in Neural Information Processing Systems 34**, 2021\. _(draft available with permission of supervisor)_
+5.  **F. Ilhan**, "Memory-Augmented Multi-Switching Time Series Prediction", to be submitted to **Advances in Neural Information Processing Systems 34**, 2021\. _(draft available with permission of supervisor)_
+6.  **F. Ilhan**, "Causality Inference for Multivariate Time Series Prediction", to be submitted to **Advances in Neural Information Processing Systems 34**, 2021\. _(draft available with permission of supervisor)_
 
 ## Conference Papers
 
