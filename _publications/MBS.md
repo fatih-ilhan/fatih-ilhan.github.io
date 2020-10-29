@@ -9,7 +9,7 @@ H. Gokcesu, <b>F. Ilhan</b>, K. Gokcesu and S. S. Kozat, "Accelerating Min-Max O
 
 
 ## Abstract
-We study the min-max optimization problem where each function contributing to the max operation is strongly convex
+<div style="text-align: justify">We study the min-max optimization problem where each function contributing to the max operation is strongly convex
 and smooth with bounded gradient in the search domain. By smoothing the max operator, we show the
 ability to achieve an arbitrarily small positive optimality gap of $\delta$ in $\tilde{O}(\frac{1}{\sqrt{\delta}})$ 
 computational complexity (up to logarithmic factors) as opposed to the state-of-the-art strong-convexity computational 
@@ -20,4 +20,4 @@ given
 points in the $d$ dimensional unbounded space $\mathbb{R}^d$ with a radius at most $(1+\epsilon)$ times the actual minimal bounding
 sphere radius for an arbitrarily small positive $\epsilon$, in $\tilde{O}(\frac{nd}{\sqrt{\epsilon}})$ 
 computational time as opposed to the state-of-the-art
-approach of core-set methodology, which needs $O(\frac{nd}{\epsilon})$ computational time.
+approach of core-set methodology, which needs $O(\frac{nd}{\epsilon})$ computational time.</div>
