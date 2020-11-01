@@ -53,13 +53,13 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$masthead-background-color  : #0c2647;
-$background-color           : #fff;
+$body-color                 : #edf5e1;
+$masthead-background-color  : #5cdb95;
+$background-color           : #edf5e1;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
-$border-color               : #51a7b9;
+$border-color               : #05386b;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -94,7 +94,7 @@ $xing-color                 : #006567;
 $link-color                 : #1b569e;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : #51a7b9;
+$masthead-link-color        : #05386b;
 $masthead-link-color-hover  : mix(#fff, $masthead-link-color, 25%);
 
 
