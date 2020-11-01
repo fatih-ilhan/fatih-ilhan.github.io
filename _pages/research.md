@@ -41,11 +41,7 @@ N. M. Vural, **F. Ilhan** and S. S. Kozat.
 <b>F. Ilhan</b>, N. M. Vural and S. S. Kozat.
 <i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
 
-7. <b>[Memory-Augmented Multi-Switching Time Series Prediction](http://fatih-ilhan.github.io/publications/MEMSW)</b><br>
-<b>F. Ilhan</b>.
-to be submitted to <i>Advances in Neural Information Processing Systems</i>, 2021. _(draft available with permission of supervisor)_
-
-8. <b>[Causality Inference for Multivariate Time Series Prediction](http://fatih-ilhan.github.io/publications/CAUSW)</b><br>
+7. <b>[Self-Supervised Multi-Contextual Representation Learning for Time Series](http://fatih-ilhan.github.io/publications/SSMCRLT)</b><br>
 <b>F. Ilhan</b>.
 to be submitted to <i>Advances in Neural Information Processing Systems</i>, 2021. _(draft available with permission of supervisor)_
 
@@ -67,7 +63,11 @@ to be submitted to <i>Advances in Neural Information Processing Systems</i>, 202
 **F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat.
 <i>Turkish Patent</i>, 2020.
 
-5. <b>[Self-Supervised Multi-Contextual Representation Learning for Time Series](http://fatih-ilhan.github.io/publications/SSMCRLT)</b><br>
+5. <b>[Memory-Augmented Multi-Switching Time Series Prediction](http://fatih-ilhan.github.io/publications/MEMSW)</b><br>
+<b>F. Ilhan</b>.
+to be submitted to <i>Advances in Neural Information Processing Systems</i>, 2021. _(draft available with permission of supervisor)_
+
+6. <b>[Causality Inference for Multivariate Time Series Prediction](http://fatih-ilhan.github.io/publications/CAUSW)</b><br>
 <b>F. Ilhan</b>.
 to be submitted to <i>Advances in Neural Information Processing Systems</i>, 2021. _(draft available with permission of supervisor)_
 
