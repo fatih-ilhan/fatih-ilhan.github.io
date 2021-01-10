@@ -49,7 +49,7 @@ to be submitted to <i>Advances in Neural Information Processing Systems</i>, 202
 
 1. <b>[Markovian RNN: An Adaptive Time Series Prediction Network with HMM-based Switching for Nonstationary Environments](http://fatih-ilhan.github.io/publications/mRNN)</b><br>
 <b>F. Ilhan</b>, O. Karaahmetoglu, Ismail Balaban and S. S. Kozat.
-<i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2020. _(Under Review)_ (([arXiv](https://arxiv.org/abs/2006.10119)) ([code](https://github.com/fatih-ilhan/markov-rnn))
+<i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2020. _(Under Review)_ ([arXiv](https://arxiv.org/abs/2006.10119)) ([code](https://github.com/fatih-ilhan/markov-rnn))
 
 2. <b>[Spatio-Temporal Crime Prediction via Temporally Hierarchical Convolutional Neural Networks](http://fatih-ilhan.github.io/publications/THCNN)</b><br>
 <b>F. Ilhan</b>, S. F. Tekin and B. Aksoy.
