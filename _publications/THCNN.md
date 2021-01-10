@@ -5,6 +5,7 @@ permalink: /publications/THCNN
 ---
 <b>F. Ilhan</b>, S. F. Tekin and B. Aksoy, "Spatio-Temporal Crime Prediction via Temporally Hierarchical Convolutional Neural Networks", <i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
 
+[IEEEXplore](https://ieeexplore.ieee.org/document/9302169)
 
 ## Abstract
 <div style="text-align: justify">In this paper, we propose a new deep learning

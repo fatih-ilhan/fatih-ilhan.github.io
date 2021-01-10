@@ -35,11 +35,11 @@ N. M. Vural, **F. Ilhan** and S. S. Kozat.
 
 5. <b>[Performance Analysis of Semi-Supervised Learning Methods under Different Missing Label Patterns](http://fatih-ilhan.github.io/publications/SSLM)</b><br>
 <b>F. Ilhan</b> and E. Mumcuoglu.
-<i>28th IEEE Signal Processing and Communications Applications</i>, 2020. ([code](https://github.com/fatih-ilhan/ssl-exploration))
+<i>28th IEEE Signal Processing and Communications Applications</i>, 2020. ([IEEEXplore](https://ieeexplore.ieee.org/document/9302465)) ([code](https://github.com/fatih-ilhan/ssl-exploration))
 
 6. <b>[LSTM-Based Online Learning with Extended Kalman Filter Based Training Algorithm](http://fatih-ilhan.github.io/publications/EKF)</b><br>
 <b>F. Ilhan</b>, N. M. Vural and S. S. Kozat.
-<i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
+<i>28th IEEE Signal Processing and Communications Applications</i>, 2020. ([IEEEXplore](https://ieeexplore.ieee.org/document/9302071))
 
 7. <b>[Self-Supervised Multi-Contextual Representation Learning for Time Series](http://fatih-ilhan.github.io/publications/SSMCRLT)</b><br>
 <b>F. Ilhan</b>.
@@ -53,7 +53,7 @@ to be submitted to <i>Advances in Neural Information Processing Systems</i>, 202
 
 2. <b>[Spatio-Temporal Crime Prediction via Temporally Hierarchical Convolutional Neural Networks](http://fatih-ilhan.github.io/publications/THCNN)</b><br>
 <b>F. Ilhan</b>, S. F. Tekin and B. Aksoy.
-<i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
+<i>28th IEEE Signal Processing and Communications Applications</i>, 2020. ([IEEEXplore](https://ieeexplore.ieee.org/document/9302169))
 
 3. <b>[Spatio-temporal Sparse Event Prediction with Hierarchical Expert Models](http://fatih-ilhan.github.io/publications/HEM)</b><br>
 **F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat.
@@ -79,7 +79,7 @@ to be submitted to <i>Advances in Neural Information Processing Systems</i>, 202
 
 2. <b>[Spatio-Temporal Crime Prediction via Temporally Hierarchical Convolutional Neural Networks](http://fatih-ilhan.github.io/publications/THCNN)</b><br>
 <b>F. Ilhan</b>, S. F. Tekin and B. Aksoy.
-<i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
+<i>28th IEEE Signal Processing and Communications Applications</i>, 2020. ([IEEEXplore](https://ieeexplore.ieee.org/document/9302169))
 
 3. <b>[Spatio-temporal Sparse Event Prediction with Hierarchical Expert Models](http://fatih-ilhan.github.io/publications/HEM)</b><br>
 **F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat.
@@ -101,11 +101,11 @@ H. Gokcesu, **F. Ilhan**, O. Karaahmetoglu and S. S. Kozat.
 
 3. <b>[Shortest Path Learning in Non-Stationary Environments via Online Convex Optimization](http://fatih-ilhan.github.io/publications/SPLNSE)</b><br>
 N. M. Vural, B. Altas, **F. Ilhan** and S. S. Kozat.
-<i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
+<i>28th IEEE Signal Processing and Communications Applications</i>, 2020. ([IEEEXplore](https://ieeexplore.ieee.org/document/9302496))
 
-4. <b>[Shortest Path Learning via Online Convex Optimization](http://fatih-ilhan.github.io/publications/SPL)</b><br>
+4. <b>[Online Shortest Path Learning via Convex Optimization](http://fatih-ilhan.github.io/publications/SPL)</b><br>
 N. M. Vural, B. Altas, **F. Ilhan** and S. S. Kozat,
-<i>28th IEEE Signal Processing and Communications Applications</i>, 2020.
+<i>28th IEEE Signal Processing and Communications Applications</i>, 2020. ([IEEEXplore](https://ieeexplore.ieee.org/document/9302479))
 
 ## Anomaly Detection
 
