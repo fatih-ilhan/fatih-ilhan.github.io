@@ -19,27 +19,31 @@ author_profile: true
 <b>F. Ilhan</b>, O. Karaahmetoglu, Ismail Balaban and S. S. Kozat.
 <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2020. _(Under Review)_ ([arXiv](https://arxiv.org/abs/2006.10119)) ([code](https://github.com/fatih-ilhan/markov-rnn))
 
-3. <b>[Achieving Online Regression Performance of LSTMs with Simple RNNs](http://fatih-ilhan.github.io/publications/sRNN)</b><br>
+3. <b>[Spatio-Temporal Weather Forecasting and Attention Mechanism on Convolutional LSTMs](http://fatih-ilhan.github.io/publications/STWAC)</b><br>
+S. F. Tekin, O. Karaahmetoglu, **F. Ilhan** and S. S. Kozat.
+<i>IEEE Transactions on Pattern And Machine Intelligence</i>, 2021. _(Under Review)_ ([arXiv](https://arxiv.org/abs/2102.00696))
+
+4. <b>[Achieving Online Regression Performance of LSTMs with Simple RNNs](http://fatih-ilhan.github.io/publications/sRNN)</b><br>
 N. M. Vural, **F. Ilhan**, S. F. Yilmaz and S. S. Kozat.
 <i>IEEE Transactions on Signal Processing</i>, 2020. _(Under Review)_ ([arXiv](https://arxiv.org/abs/2005.08948))
 
-4. <b>[Unsupervised Online Anomaly Detection On Irregularly Sampled Or Missing Valued Time-Series Data Using LSTM Networks](http://fatih-ilhan.github.io/publications/UOAD)</b><br>
+5. <b>[Unsupervised Online Anomaly Detection On Irregularly Sampled Or Missing Valued Time-Series Data Using LSTM Networks](http://fatih-ilhan.github.io/publications/UOAD)</b><br>
 O. Karaahmetoglu, **F. Ilhan** and S. S. Kozat.
 <i>IEEE Transactions on Signal Processing</i>, 2020. _(Under Review)_ ([arXiv](https://arxiv.org/abs/2005.12005))
 
-5. <b>[Stability of the Decoupled Extended Kalman Filter in LSTM-Based Online Learning](http://fatih-ilhan.github.io/publications/DEKF)</b><br>
+6. <b>[Stability of the Decoupled Extended Kalman Filter in LSTM-Based Online Learning](http://fatih-ilhan.github.io/publications/DEKF)</b><br>
 N. M. Vural, **F. Ilhan** and S. S. Kozat.
 <i>Digital Signal Processing</i>, 2020. _(Under Review)_ ([arXiv](https://arxiv.org/abs/1911.12258))
 
-6. <b>[Accelerating Min-Max Optimization with Application to Minimal Bounding Sphere](http://fatih-ilhan.github.io/publications/MBS)</b><br>
+7. <b>[Accelerating Min-Max Optimization with Application to Minimal Bounding Sphere](http://fatih-ilhan.github.io/publications/MBS)</b><br>
 H. Gokcesu, **F. Ilhan**, K. Gokcesu and S. S. Kozat.
 <i>IEEE Transactions on Signal Processing</i>, 2020. _(Under Review)_ _(draft available with permission of supervisor)_
 
-7. <b>[Minimax Optimal Online Stochastic Learning for Sequences of Convex Functions under Sub-Gradient Observation Failures](http://fatih-ilhan.github.io/publications/MOOSL)</b><br>
+8. <b>[Minimax Optimal Online Stochastic Learning for Sequences of Convex Functions under Sub-Gradient Observation Failures](http://fatih-ilhan.github.io/publications/MOOSL)</b><br>
 H. Gokcesu, **F. Ilhan**, O. Karaahmetoglu and S. S. Kozat.
 <i>IEEE Transactions on Signal Processing</i>, 2020. _(Under Review)_ _(draft available with permission of supervisor)_
 
-8. <b>[RNN-Based Online Learning: An Efficient First-Order Optimization Algorithm with a Convergence Guarantee](http://fatih-ilhan.github.io/publications/RNNOL)</b><br>
+9. <b>[RNN-Based Online Learning: An Efficient First-Order Optimization Algorithm with a Convergence Guarantee](http://fatih-ilhan.github.io/publications/RNNOL)</b><br>
 N. M. Vural, S. F. Yilmaz, **F. Ilhan** and S. S. Kozat.
 <i>IEEE Transactions on Signal Processing</i>, 2020. _(Under Review)_ ([arXiv](https://arxiv.org/abs/2003.03601))
 

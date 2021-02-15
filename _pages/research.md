@@ -55,19 +55,23 @@ to be submitted to <i>Advances in Neural Information Processing Systems</i>, 202
 <b>F. Ilhan</b>, S. F. Tekin and B. Aksoy.
 <i>28th IEEE Signal Processing and Communications Applications</i>, 2020. ([IEEEXplore](https://ieeexplore.ieee.org/document/9302169))
 
-3. <b>[Spatio-temporal Sparse Event Prediction with Hierarchical Expert Models](http://fatih-ilhan.github.io/publications/HEM)</b><br>
+3. <b>[Spatio-Temporal Weather Forecasting and Attention Mechanism on Convolutional LSTMs](http://fatih-ilhan.github.io/publications/STWAC)</b><br>
+S. F. Tekin, O. Karaahmetoglu, **F. Ilhan** and S. S. Kozat.
+<i>IEEE Transactions on Pattern And Machine Intelligence</i>, 2021. _(Under Review)_ ([arXiv](https://arxiv.org/abs/2102.00696))
+
+4. <b>[Spatio-Temporal Sparse Event Prediction with Hierarchical Expert Models](http://fatih-ilhan.github.io/publications/HEM)</b><br>
 **F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat.
 <i>Turkish Patent</i>, 2020.
 
-4. <b>[Energy Consumption Forecasting with Time Series Clustering](http://fatih-ilhan.github.io/publications/ECF)</b><br>
+5. <b>[Energy Consumption Forecasting with Time Series Clustering](http://fatih-ilhan.github.io/publications/ECF)</b><br>
 **F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat.
 <i>Turkish Patent</i>, 2020.
 
-5. <b>[Memory-Augmented Multi-Switching Time Series Prediction](http://fatih-ilhan.github.io/publications/MEMSW)</b><br>
+6. <b>[Memory-Augmented Multi-Switching Time Series Prediction](http://fatih-ilhan.github.io/publications/MEMSW)</b><br>
 <b>F. Ilhan</b>.
 to be submitted to <i>Advances in Neural Information Processing Systems</i>, 2021. _(draft available with permission of supervisor)_
 
-6. <b>[Causality Inference for Multivariate Time Series Prediction](http://fatih-ilhan.github.io/publications/CAUSW)</b><br>
+7. <b>[Causality Inference for Multivariate Time Series Prediction](http://fatih-ilhan.github.io/publications/CAUSW)</b><br>
 <b>F. Ilhan</b>.
 to be submitted to <i>Advances in Neural Information Processing Systems</i>, 2021. _(draft available with permission of supervisor)_
 
