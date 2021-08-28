@@ -19,7 +19,7 @@ I have research experience, but not limited to, in the following topics:
 
 1. <b>[Achieving Online Regression Performance of LSTMs with Simple RNNs](http://fatih-ilhan.github.io/publications/sRNN)</b><br>
 N. M. Vural, **F. Ilhan**, S. F. Yilmaz and S. S. Kozat.
-<i>IEEE Transactions on Signal Processing</i>, 2021. _(Accepted)_ ([IEEEXplore](https://ieeexplore.ieee.org/document/9457246))
+<i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2021. _(Accepted)_ ([IEEEXplore](https://ieeexplore.ieee.org/document/9457246))
 
 2. <b>[Modeling of Spatio-Temporal Hawkes Processes with Randomized Kernels](http://fatih-ilhan.github.io/publications/STHP)</b><br>
 <b>F. Ilhan</b> and S. S. Kozat.
@@ -71,4 +71,4 @@ N. M. Vural, B. Altas, **F. Ilhan** and S. S. Kozat,
 
 2. <b>[Unsupervised Online Anomaly Detection On Irregularly Sampled Or Missing Valued Time-Series Data Using LSTM Networks](http://fatih-ilhan.github.io/publications/UOAD)</b><br>
 O. Karaahmetoglu, **F. Ilhan** and S. S. Kozat.
-<i>IEEE Transactions on Signal Processing</i>, 2020. _(Under Review)_ ([arXiv](https://arxiv.org/abs/2005.12005))
+<i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2020. _(Under Review)_ ([arXiv](https://arxiv.org/abs/2005.12005))
