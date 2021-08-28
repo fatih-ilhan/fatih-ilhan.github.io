@@ -19,7 +19,7 @@ redirect_from:
 
 ## Bio
 
-<div style="text-align: justify"><p>I received my B.Sc. and M.Sc. degree with high honors from <b>Bilkent University</b> in June 2019 and August 2021 respectively. I am currently a CS <b>Ph.D. student</b> at the School of Computer Science, <b>Georgia Institute of Technology</b>, under the supervision of  <a href="https://www.cc.gatech.edu/~lingliu/"><b>Prof. Ling Liu</b></a> .</p></div>
+<div style="text-align: justify"><p>I received my B.Sc. and M.Sc. degree with high honors from <b>Bilkent University</b> in June 2019 and August 2021 respectively. I am currently a <b>CS Ph.D. student</b> at the School of Computer Science, <b>Georgia Institute of Technology</b>, under the supervision of  <a href="https://www.cc.gatech.edu/~lingliu/"><b>Prof. Ling Liu</b></a> .</p></div>
 
 <div style="text-align: justify"><p>During the senior year of my B.Sc. studies, I conducted research on unsupervised video anomaly detection and spatio-temporal event modeling with point processes under the supervision of  <a href="http://kilyos.ee.bilkent.edu.tr/~kozat/"><b>Prof. Suleyman S. Kozat</b></a> as an undergraduate researcher. During the same period, I have also worked as a part-time data scientist at <a href="http://data-boss.com.tr/"><b>DataBoss Analytics Inc.</b></a> , where I worked as a <b>machine learning engineer</b> from June 2019 until July 2021. During my M.Sc. studies, I have mainly worked on time series modeling and prediction under adversarial and nonstationary environments. In addition, I have worked on efficient online learning algorithms with convergence guarantees and adaptive switching methods for time series prediction.</p></div>
 
