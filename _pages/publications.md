@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 *   [**Journal Papers**](#journal-papers)
-*   [**Working Papers**](#working-papers)
 *   [**Conference Papers**](#conference-papers)
 
 ## Journal Papers
