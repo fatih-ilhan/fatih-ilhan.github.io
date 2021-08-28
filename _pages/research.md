@@ -17,63 +17,31 @@ I conduct research broadly, but not limited to, in the following topics:
 
 ## Machine Learning
 
-1. <b>[Modeling of Spatio-Temporal Hawkes Processes with Randomized Kernels](http://fatih-ilhan.github.io/publications/STHP)</b><br>
+1. <b>[Achieving Online Regression Performance of LSTMs with Simple RNNs](http://fatih-ilhan.github.io/publications/sRNN)</b><br>
+N. M. Vural, **F. Ilhan**, S. F. Yilmaz and S. S. Kozat.
+<i>IEEE Transactions on Signal Processing</i>, 2021. _(Accepted)_ ([IEEEXplore](https://ieeexplore.ieee.org/document/9457246))
+
+2. <b>[Modeling of Spatio-Temporal Hawkes Processes with Randomized Kernels](http://fatih-ilhan.github.io/publications/STHP)</b><br>
 <b>F. Ilhan</b> and S. S. Kozat.
 <i>IEEE Transactions on Signal Processing</i>, 2020. _(Accepted)_ ([IEEEXplore](https://ieeexplore.ieee.org/document/9177186)) ([code](https://github.com/fatih-ilhan/sthawkes))
 
-2. <b>[Achieving Online Regression Performance of LSTMs with Simple RNNs](http://fatih-ilhan.github.io/publications/sRNN)</b><br>
-N. M. Vural, **F. Ilhan**, S. F. Yilmaz and S. S. Kozat.
-<i>IEEE Transactions on Signal Processing</i>, 2020. _(Under Review)_ ([arXiv](https://arxiv.org/abs/2005.08948))
-
-3. <b>[RNN-Based Online Learning: An Efficient First-Order Optimization Algorithm with a Convergence Guarantee](http://fatih-ilhan.github.io/publications/RNNOL)</b><br>
-N. M. Vural, S. F. Yilmaz, **F. Ilhan** and S. S. Kozat.
-<i>IEEE Transactions on Signal Processing</i>, 2020. _(Under Review)_ ([arXiv](https://arxiv.org/abs/2003.03601))
-
-4. <b>[Stability of the Decoupled Extended Kalman Filter in LSTM-Based Online Learning](http://fatih-ilhan.github.io/publications/DEKF)</b><br>
-N. M. Vural, **F. Ilhan** and S. S. Kozat.
-<i>Digital Signal Processing</i>, 2020. _(Under Review)_ ([arXiv](https://arxiv.org/abs/1911.12258))
-
-5. <b>[Performance Analysis of Semi-Supervised Learning Methods under Different Missing Label Patterns](http://fatih-ilhan.github.io/publications/SSLM)</b><br>
+3. <b>[Performance Analysis of Semi-Supervised Learning Methods under Different Missing Label Patterns](http://fatih-ilhan.github.io/publications/SSLM)</b><br>
 <b>F. Ilhan</b> and E. Mumcuoglu.
 <i>28th IEEE Signal Processing and Communications Applications</i>, 2020. ([IEEEXplore](https://ieeexplore.ieee.org/document/9302465)) ([code](https://github.com/fatih-ilhan/ssl-exploration))
 
-6. <b>[LSTM-Based Online Learning with Extended Kalman Filter Based Training Algorithm](http://fatih-ilhan.github.io/publications/EKF)</b><br>
+4. <b>[LSTM-Based Online Learning with Extended Kalman Filter Based Training Algorithm](http://fatih-ilhan.github.io/publications/EKF)</b><br>
 <b>F. Ilhan</b>, N. M. Vural and S. S. Kozat.
 <i>28th IEEE Signal Processing and Communications Applications</i>, 2020. ([IEEEXplore](https://ieeexplore.ieee.org/document/9302071))
-
-7. <b>[Self-Supervised Multi-Contextual Representation Learning for Time Series](http://fatih-ilhan.github.io/publications/SSMCRLT)</b><br>
-<b>F. Ilhan</b>.
-to be submitted to <i>Advances in Neural Information Processing Systems</i>, 2021. _(draft available with permission of supervisor)_
 
 ## Time-series Prediction
 
 1. <b>[Markovian RNN: An Adaptive Time Series Prediction Network with HMM-based Switching for Nonstationary Environments](http://fatih-ilhan.github.io/publications/mRNN)</b><br>
 <b>F. Ilhan</b>, O. Karaahmetoglu, Ismail Balaban and S. S. Kozat.
-<i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2020. _(Under Review)_ ([arXiv](https://arxiv.org/abs/2006.10119)) ([code](https://github.com/fatih-ilhan/markov-rnn))
+<i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2021. _(Accepted)_ ([IEEEXplore](https://ieeexplore.ieee.org/document/9509335)) ([code](https://github.com/fatih-ilhan/markov-rnn))
 
 2. <b>[Spatio-Temporal Crime Prediction via Temporally Hierarchical Convolutional Neural Networks](http://fatih-ilhan.github.io/publications/THCNN)</b><br>
 <b>F. Ilhan</b>, S. F. Tekin and B. Aksoy.
 <i>28th IEEE Signal Processing and Communications Applications</i>, 2020. ([IEEEXplore](https://ieeexplore.ieee.org/document/9302169))
-
-3. <b>[Spatio-Temporal Weather Forecasting and Attention Mechanism on Convolutional LSTMs](http://fatih-ilhan.github.io/publications/STWAC)</b><br>
-S. F. Tekin, O. Karaahmetoglu, **F. Ilhan** and S. S. Kozat.
-<i>IEEE Transactions on Pattern And Machine Intelligence</i>, 2021. _(Under Review)_ ([arXiv](https://arxiv.org/abs/2102.00696))
-
-4. <b>[Spatio-Temporal Sparse Event Prediction with Hierarchical Expert Models](http://fatih-ilhan.github.io/publications/HEM)</b><br>
-**F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat.
-<i>Turkish Patent</i>, 2020.
-
-5. <b>[Energy Consumption Forecasting with Time Series Clustering](http://fatih-ilhan.github.io/publications/ECF)</b><br>
-**F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat.
-<i>Turkish Patent</i>, 2020.
-
-6. <b>[Memory-Augmented Multi-Switching Time Series Prediction](http://fatih-ilhan.github.io/publications/MEMSW)</b><br>
-<b>F. Ilhan</b>.
-to be submitted to <i>Advances in Neural Information Processing Systems</i>, 2021. _(draft available with permission of supervisor)_
-
-7. <b>[Causality Inference for Multivariate Time Series Prediction](http://fatih-ilhan.github.io/publications/CAUSW)</b><br>
-<b>F. Ilhan</b>.
-to be submitted to <i>Advances in Neural Information Processing Systems</i>, 2021. _(draft available with permission of supervisor)_
 
 ## Spatio-temporal Event Modeling
 
@@ -85,23 +53,7 @@ to be submitted to <i>Advances in Neural Information Processing Systems</i>, 202
 <b>F. Ilhan</b>, S. F. Tekin and B. Aksoy.
 <i>28th IEEE Signal Processing and Communications Applications</i>, 2020. ([IEEEXplore](https://ieeexplore.ieee.org/document/9302169))
 
-3. <b>[Spatio-temporal Sparse Event Prediction with Hierarchical Expert Models](http://fatih-ilhan.github.io/publications/HEM)</b><br>
-**F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat.
-<i>Turkish Patent</i>, 2020.
-
-4. <b>[Crime Analysis Tool for Spatio-temporal and Contextual Link Interpretability](http://fatih-ilhan.github.io/publications/CAT)</b><br>
-**F. Ilhan**, O. Karaahmetoglu, S. F. Tekin, I. Balaban and S. S. Kozat.
-<i>Turkish Patent</i>, 2020.
-
 ## Optimization
-
-1. <b>[Accelerating Min-Max Optimization with Application to Minimal Bounding Sphere](http://fatih-ilhan.github.io/publications/MBS)</b><br>
-H. Gokcesu, **F. Ilhan**, K. Gokcesu and S. S. Kozat.
-<i>IEEE Transactions on Signal Processing</i>, 2020. _(Under Review)_ _(draft available with permission of supervisor)_
-
-2. <b>[Minimax Optimal Online Stochastic Learning for Sequences of Convex Functions under Sub-Gradient Observation Failures](http://fatih-ilhan.github.io/publications/MOOSL)</b><br>
-H. Gokcesu, **F. Ilhan**, O. Karaahmetoglu and S. S. Kozat.
-<i>IEEE Transactions on Signal Processing</i>, 2020. _(Under Review)_ _(draft available with permission of supervisor)_
 
 3. <b>[Shortest Path Learning in Non-Stationary Environments via Online Convex Optimization](http://fatih-ilhan.github.io/publications/SPLNSE)</b><br>
 N. M. Vural, B. Altas, **F. Ilhan** and S. S. Kozat.
