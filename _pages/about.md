@@ -12,7 +12,7 @@ redirect_from:
 
 ### Ph.D. Student, School of Computer Science
 ### Georgia Institute of Technology, Atlanta, GA, USA
-### E-mail: <img src="https://fatih-ilhan.github.io/files/email.JPG?raw=true" alt="Photo" style="width: 185px;"/> 
+### E-mail: filhan_AT_gatech_DOT_edu 
 
 
 <br>
