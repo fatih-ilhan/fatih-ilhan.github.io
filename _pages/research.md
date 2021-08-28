@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I conduct research broadly, but not limited to, in the following topics:
+I have research experience, but not limited to, in the following topics:
 
 *   [**Machine Learning**](#machine-learning)
 *   [**Time-series Prediction**](#time-series-prediction)
