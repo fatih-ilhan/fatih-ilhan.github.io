@@ -11,7 +11,7 @@ redirect_from:
 # Fatih Ilhan
 
 ### Ph.D. Student, School of Computer Science
-### Georgia Institute of Technology, Atlanta, GA, USA
+### KACB 3337, Georgia Institute of Technology, Atlanta, GA, USA
 ### E-mail: filhan_AT_gatech_DOT_edu 
 
 
