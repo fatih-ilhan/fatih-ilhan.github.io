@@ -22,7 +22,7 @@ redirect_from:
 
 <div style="text-align: justify"><p> Please refer to my <a href="http://fatih-ilhan.github.io/files/cv.pdf"><b>CV</b></a> for the full record of my work.</p></div>
 
-## Featured Publications
+## Selected Publications
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 2; padding-right: 20px;">
