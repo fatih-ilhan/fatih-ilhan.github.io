@@ -29,10 +29,38 @@ redirect_from:
 
 ## Featured Publications
 
-1. <b>[Markovian RNN: An Adaptive Time Series Prediction Network with HMM-based Switching for Nonstationary Environments](http://fatih-ilhan.github.io/publications/mRNN)</b><br>
-<b>F. Ilhan</b>, O. Karaahmetoglu, Ismail Balaban and S. S. Kozat.
-<i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2021. _(Accepted)_ ([IEEEXplore](https://ieeexplore.ieee.org/document/9509335)) ([code](https://github.com/fatih-ilhan/markov-rnn))
+- <b>Booster: Tackling Harmful Fine-tuning for Large Language Models via Attenuating Harmful Perturbation</b><br>
+T. Huang, S. Hu, <b>F. Ilhan</b>, S. F. Tekin, and L. Liu.
+<i>International Conference on Learning Representations</i>, 2025. (**ICLR _oral_**) ([paper](https://openreview.net/pdf?id=tTPHgb0EtV)) ([code](https://github.com/git-disl/Booster))
 
-2. <b>[Modeling of Spatio-Temporal Hawkes Processes with Randomized Kernels](http://fatih-ilhan.github.io/publications/STHP)</b><br>
+- <b>Resource-Efficient Transformer Pruning for Finetuning of Large Models</b><br>
+<b>F. Ilhan</b>, G. Su, S. F. Tekin, T. Huang, S. Hu, and L. Liu.
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>, 2024. (**CVPR**) ([paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ilhan_Resource-Efficient_Transformer_Pruning_for_Finetuning_of_Large_Models_CVPR_2024_paper.pdf)) ([code](https://github.com/git-disl/recap))
+
+- <b>Adaptive Deep Neural Network Inference Optimization with EENet</b><br>
+<b>F. Ilhan</b>, KH. Chow, S. Hu, T. Huang, S. F. Tekin, W. Wei, Y. Wu, M. Lee, R. Kompella, H. Latapie, G. Liu, L. Liu.
+<i>IEEE/CVF Winter Conference on Applications of Computer Vision</i>, 2024. (**WACV**) ([paper](https://openaccess.thecvf.com/content/WACV2024/papers/Ilhan_Adaptive_Deep_Neural_Network_Inference_Optimization_With_EENet_WACV_2024_paper.pdf)) ([code](https://github.com/git-disl/eenet))
+
+- <b>Lazy Safety Alignment for Large Language Models against Harmful Fine-tuning</b><br>
+T. Huang, S. Hu, <b>F. Ilhan</b>, S. F. Tekin and L. Liu.
+<i>Thirty-seventh Conference on Neural Information Processing Systems</i>, 2024. (**NeurIPS**) ([paper](https://openreview.net/pdf?id=RPChapuXlC)) ([code](https://github.com/git-disl/Lisa))
+
+- <b>LLM-TOPLA: Efficient LLM Ensemble by Maximising Diversity</b><br>
+S. F. Tekin, <b>F. Ilhan</b>, T. Huang, S. Hu and L. Liu.
+<i>ACL Conference on Empirical Methods in Natural Language Processing</i>, 2024. (**EMNLP _findings_**) ([paper](https://openreview.net/forum?id=mG5jikbsaJ#discussion)) ([code](https://github.com/git-disl/llm-topla))
+
+- <b>ScaleFL: Resource-Adaptive Federated Learning with Heterogeneous Clients</b><br>
+<b>F. Ilhan</b>, G. Su and L. Liu.
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>, 2023. (**CVPR**) ([paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ilhan_ScaleFL_Resource-Adaptive_Federated_Learning_With_Heterogeneous_Clients_CVPR_2023_paper.pdf)) ([code](https://github.com/git-disl/scale-fl))
+
+- <b>Lockdown: Backdoor Defense for Federated Learning with Isolated Subspace Training</b><br>
+T. Huang, S. Hu, <b>F. Ilhan</b>, S. F. Tekin and L. Liu.
+<i>Thirty-seventh Conference on Neural Information Processing Systems</i>, 2024. (**NeurIPS**) ([paper](https://openreview.net/pdf?id=V5cQH7JbGo)) ([code](https://github.com/git-disl/Lockdown))
+
+- <b>Markovian RNN: An Adaptive Time Series Prediction Network with HMM-based Switching for Nonstationary Environments</b><br>
+<b>F. Ilhan</b>, O. Karaahmetoglu, Ismail Balaban and S. S. Kozat.
+<i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2021. (**IEEE TNNLS**) ([paper](https://ieeexplore.ieee.org/document/9509335)) ([code](https://github.com/fatih-ilhan/markov-rnn))
+
+- <b>Modeling of Spatio-Temporal Hawkes Processes with Randomized Kernels</b><br>
 <b>F. Ilhan</b> and S. S. Kozat.
-<i>IEEE Transactions on Signal Processing</i>, 2020. _(Accepted)_ ([IEEEXplore](https://ieeexplore.ieee.org/document/9177186)) ([code](https://github.com/fatih-ilhan/sthawkes))
+<i>IEEE Transactions on Signal Processing</i>, 2020. (**IEEE TSP**) ([paper](https://ieeexplore.ieee.org/document/9177186)) ([code](https://github.com/fatih-ilhan/sthawkes))
