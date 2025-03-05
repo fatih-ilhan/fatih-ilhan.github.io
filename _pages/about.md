@@ -42,7 +42,7 @@ redirect_from:
     <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>, 2024. (<b>CVPR</b>) (<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Ilhan_Resource-Efficient_Transformer_Pruning_for_Finetuning_of_Large_Models_CVPR_2024_paper.pdf">paper</a>) (<a href="https://github.com/git-disl/recap">code</a>)
   </div>
   <div style="flex: 1;">
-    <img src="files/ph.png" alt="" style="max-width: 100%; border: 1px solid #eee;">
+    <img src="files/paper_imgs/recap" alt="" style="max-width: 100%; border: 1px solid #eee;">
   </div>
 </div>
 
@@ -53,7 +53,7 @@ redirect_from:
     <i>IEEE/CVF Winter Conference on Applications of Computer Vision</i>, 2024. (<b>WACV</b>) (<a href="https://openaccess.thecvf.com/content/WACV2024/papers/Ilhan_Adaptive_Deep_Neural_Network_Inference_Optimization_With_EENet_WACV_2024_paper.pdf">paper</a>) (<a href="https://github.com/git-disl/eenet">code</a>)
   </div>
   <div style="flex: 1;">
-    <img src="files/ph.png" alt="" style="max-width: 100%; border: 1px solid #eee;">
+    <img src="files/paper_imgs/eenet.png" alt="" style="max-width: 100%; border: 1px solid #eee;">
   </div>
 </div>
 
@@ -86,7 +86,7 @@ redirect_from:
     <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>, 2023. (<b>CVPR</b>) (<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Ilhan_ScaleFL_Resource-Adaptive_Federated_Learning_With_Heterogeneous_Clients_CVPR_2023_paper.pdf">paper</a>) (<a href="https://github.com/git-disl/scale-fl">code</a>)
   </div>
   <div style="flex: 1;">
-    <img src="files/ph.png" alt="" style="max-width: 100%; border: 1px solid #eee;">
+    <img src="files/paper_imgs/scalefl.png" alt="" style="max-width: 100%; border: 1px solid #eee;">
   </div>
 </div>
 
