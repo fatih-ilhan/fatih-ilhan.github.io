@@ -31,7 +31,7 @@ redirect_from:
     <i>International Conference on Learning Representations</i>, 2025. (<b>ICLR oral</b>) [<a href="https://openreview.net/pdf?id=tTPHgb0EtV">paper</a>] [<a href="https://github.com/git-disl/Booster">code</a>]
   </div>
   <div style="flex: 1;">
-    <img src="files/paper_imgs/booster" alt="" style="max-width: 100%; border: 1px solid #eee;">
+    <img src="files/paper_imgs/booster.png" alt="" style="max-width: 100%; border: 1px solid #eee;">
   </div>
 </div>
 
@@ -97,7 +97,7 @@ redirect_from:
     <i>Thirty-seventh Conference on Neural Information Processing Systems</i>, 2023. (<b>NeurIPS</b>) [<a href="https://openreview.net/pdf?id=V5cQH7JbGo">paper</a>] [<a href="https://github.com/git-disl/Lockdown">code</a>]
   </div>
   <div style="flex: 1;">
-    <img src="files/paper_imgs/lockdown" alt="" style="max-width: 100%; border: 1px solid #eee;">
+    <img src="files/paper_imgs/lockdown.png" alt="" style="max-width: 100%; border: 1px solid #eee;">
   </div>
 </div>
 
