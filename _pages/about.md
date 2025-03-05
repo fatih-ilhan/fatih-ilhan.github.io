@@ -14,9 +14,6 @@ redirect_from:
 ### KACB 3337, Georgia Institute of Technology, Atlanta, GA, USA
 ### E-mail: filhan_AT_gatech_DOT_edu 
 
-
-<br>
-
 ## Bio
 
 <div style="text-align: justify"><p>I am a 4th year <b>CS Ph.D. candidate</b> at the School of Computer Science, <b>Georgia Institute of Technology</b>, advised by  <a href="https://www.cc.gatech.edu/~lingliu/"><b>Prof. Ling Liu</b></a> . I was a research scientist intern at <b>IBM Research</b> in summer 2022, 2023 and 2024.</p></div> 
@@ -24,8 +21,6 @@ redirect_from:
 <div style="text-align: justify"><p>My current research focus is <b>efficient inference and finetuning for large language/multimodal models</b>. I have also worked and collaborated on projects related to federated learning, ensemble learning, AI safety and spatiotemporal prediction/anomaly detection.</p></div>
 
 <div style="text-align: justify"><p> Please refer to my <a href="http://fatih-ilhan.github.io/files/cv.pdf"><b>CV</b></a> for the full record of my work.</p></div>
-
-<br>
 
 ## Featured Publications
 
@@ -55,7 +50,7 @@ S. F. Tekin, <b>F. Ilhan</b>, T. Huang, S. Hu and L. Liu.
 
 - <b>Lockdown: Backdoor Defense for Federated Learning with Isolated Subspace Training</b><br>
 T. Huang, S. Hu, <b>F. Ilhan</b>, S. F. Tekin and L. Liu.
-<i>Thirty-seventh Conference on Neural Information Processing Systems</i>, 2024. (**NeurIPS**) ([paper](https://openreview.net/pdf?id=V5cQH7JbGo)) ([code](https://github.com/git-disl/Lockdown))
+<i>Thirty-seventh Conference on Neural Information Processing Systems</i>, 2023. (**NeurIPS**) ([paper](https://openreview.net/pdf?id=V5cQH7JbGo)) ([code](https://github.com/git-disl/Lockdown))
 
 - <b>Markovian RNN: An Adaptive Time Series Prediction Network with HMM-based Switching for Nonstationary Environments</b><br>
 <b>F. Ilhan</b>, O. Karaahmetoglu, Ismail Balaban and S. S. Kozat.
