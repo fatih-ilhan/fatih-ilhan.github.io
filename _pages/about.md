@@ -42,7 +42,7 @@ redirect_from:
     <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>, 2024. (<b>CVPR</b>) (<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Ilhan_Resource-Efficient_Transformer_Pruning_for_Finetuning_of_Large_Models_CVPR_2024_paper.pdf">paper</a>) (<a href="https://github.com/git-disl/recap">code</a>)
   </div>
   <div style="flex: 1;">
-    <img src="files/paper_imgs/recap" alt="" style="max-width: 100%; border: 1px solid #eee;">
+    <img src="files/paper_imgs/recap.png" alt="" style="max-width: 100%; border: 1px solid #eee;">
   </div>
 </div>
 
