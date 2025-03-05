@@ -118,10 +118,7 @@ redirect_from:
     <b>F. Ilhan</b> and S. S. Kozat.
     <i>IEEE Transactions on Signal Processing</i>, 2020. (<b>IEEE TSP</b>) [<a href="https://ieeexplore.ieee.org/document/9177186">paper</a>] [<a href="https://github.com/fatih-ilhan/sthawkes">code</a>]
   </div>
-
-[comment]: <> (  <div style="flex: 1;">)
-
-[comment]: <> (    <img src="files/paper_imgs/sthawkes.png" alt="" style="max-width: 90%; border: 1px solid #eee;">)
-
-[comment]: <> (  </div>)
+  <div style="flex: 1;">
+    <img src="files/paper_imgs/sthawkes.png" alt="" style="max-width: 70%; border: 1px solid #eee;">
+  </div>
 </div>
