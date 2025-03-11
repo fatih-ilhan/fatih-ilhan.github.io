@@ -22,7 +22,7 @@ redirect_from:
 
 <div style="text-align: justify"><p> <b>Teaching:</b> I have served as the head TA of OMS CS6675 (Advanced Internet Systems and Applications) for four semesters and was selected as the Georgia Tech Head TA of the Year in 2025. </p></div>
 
-<div style="text-align: justify"><p> Please refer to my <a href="http://fatih-ilhan.github.io/files/cv.pdf"><b>CV</b></a> for the full record of my work.</p></div>
+<div style="text-align: justify"><p> Please refer to my <a href="https://fatih-ilhan.github.io/files/cv.pdf"><b>CV</b></a> for the full record of my work.</p></div>
 
 ## Selected Publications
 
