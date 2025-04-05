@@ -18,7 +18,7 @@ redirect_from:
 
 <div style="text-align: justify"><p>I am a 4th year CS Ph.D. candidate at the School of Computer Science, Georgia Institute of Technology, advised by  <a href="https://www.cc.gatech.edu/~lingliu/">Prof. Ling Liu</a> . I was a research scientist intern with Hybrid Cloud Systems Research Group at IBM Research in summer 2022, 2023 and 2024.</p></div> 
 
-<div style="text-align: justify"><p> <b>Research:</b> My current research focus is full-stack efficiency optimizations for inference and finetuning with large language/vision/multimodal models. I have also worked and collaborated on projects related to federated learning, ensemble learning, AI safety and spatiotemporal prediction/anomaly detection.</p></div>
+<div style="text-align: justify"><p> <b>Research:</b> My current research focus is full-stack efficiency optimizations for inference and finetuning for large generative AI applications. I have also worked and collaborated on projects related to AI safety, multi-agent AI, distributed learning, reinforcement learning and time series prediction/anomaly detection.</p></div>
 
 <div style="text-align: justify"><p> <b>Teaching:</b> I have served as the head TA of OMS CS6675 (Advanced Internet Systems and Applications) for four semesters and was selected as the Georgia Tech Head TA of the Year in 2025. </p></div>
 
