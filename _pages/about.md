@@ -16,7 +16,7 @@ redirect_from:
 
 ## Bio
 
-<div style="text-align: justify"><p>I am a 4th year CS Ph.D. candidate at the School of Computer Science, Georgia Institute of Technology, advised by  <a href="https://www.cc.gatech.edu/~lingliu/">Prof. Ling Liu</a> . I was a research scientist intern with Hybrid Cloud Systems Research Group at IBM Research in summer 2022, 2023 and 2024.</p></div> 
+<div style="text-align: justify"><p>I am a 5th year CS Ph.D. candidate at the School of Computer Science, Georgia Institute of Technology, advised by  <a href="https://www.cc.gatech.edu/~lingliu/">Prof. Ling Liu</a> . I interned as research scientist with Hybrid Cloud Systems Research Group at IBM Research during the summers.</p></div> 
 
 <div style="text-align: justify"><p> <b>Research:</b> My current research focus is full-stack efficiency optimizations for inference and finetuning for large generative AI applications. I have also worked and collaborated on projects related to AI safety, multi-agent AI, distributed learning, reinforcement learning and time series prediction/anomaly detection.</p></div>
 
@@ -25,6 +25,17 @@ redirect_from:
 <div style="text-align: justify"><p> Please refer to my <a href="https://fatih-ilhan.github.io/files/cv.pdf"><b>CV</b></a> for the full record of my work and experience.</p></div>
 
 ## Selected Publications
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 2; padding-right: 20px;">
+    <b>FedHFT: Efficient Federated Finetuning with Heterogeneous Edge Clients</b><br>
+    <b>F. Ilhan</b>, S. F. Tekin, T. Huang, G. Liu, R. Kompella, G. Eisenhauer, Y. C. Lin, C. Pu and L. Liu.
+    <i>IEEE Conference on Cognitive Machine Intelligence </i>, 2025. (<b>IEEE CogMI</b>) [<a href="https://arxiv.org/abs/2510.14054">paper</a>] [<a href="https://github.com/git-disl/FedHFT">code</a>] [<a href="https://gtvault-my.sharepoint.com/:p:/g/personal/filhan3_gatech_edu/EZ1mEF8trdlNrJ__raLQkhoBF2KZ_8jc-ukkN45lK8gt6Q?e=rKUg0s&xsdata=MDV8MDJ8ZmlsaGFuQGdhdGVjaC5lZHV8OTYzMGU4YmVlZDAzNGMxOTEzNTEwOGRlMWYyODhlOGJ8NDgyMTk4YmJhZTdiNGIyNThiN2E2ZDdmMzJmYWEwODN8MXwwfDYzODk4MjQ1NjIwMTkwMzkzMXxVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=QjhsWmRLK0Q0c05CcDltV3FMcllhUGloTTFqblZFS0NOQUxMNzdDdnpoOD0%3d">video</a>]
+  </div>
+  <div style="flex: 1;">
+    <img src="files/paper_imgs/fedhft.png" alt="" style="max-width: 90%; border: 1px solid #eee;">
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 2; padding-right: 20px;">
@@ -41,7 +52,7 @@ redirect_from:
   <div style="flex: 2; padding-right: 20px;">
     <b>Resource-Efficient Transformer Pruning for Finetuning of Large Models</b><br>
     <b>F. Ilhan</b>, G. Su, S. F. Tekin, T. Huang, S. Hu, and L. Liu.
-    <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>, 2024. (<b>CVPR</b>) [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Ilhan_Resource-Efficient_Transformer_Pruning_for_Finetuning_of_Large_Models_CVPR_2024_paper.pdf">paper</a>] [<a href="https://github.com/git-disl/recap">code</a>]
+    <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>, 2024. (<b>CVPR</b>) [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Ilhan_Resource-Efficient_Transformer_Pruning_for_Finetuning_of_Large_Models_CVPR_2024_paper.pdf">paper</a>] [<a href="https://github.com/git-disl/recap">code</a>] [<a href="https://youtu.be/wBNWMBugnPY">video</a>]
   </div>
   <div style="flex: 1;">
     <img src="files/paper_imgs/recap.png" alt="" style="max-width: 90%; border: 1px solid #eee;">
@@ -85,7 +96,7 @@ redirect_from:
   <div style="flex: 2; padding-right: 20px;">
     <b>ScaleFL: Resource-Adaptive Federated Learning with Heterogeneous Clients</b><br>
     <b>F. Ilhan</b>, G. Su and L. Liu.
-    <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>, 2023. (<b>CVPR</b>) [<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Ilhan_ScaleFL_Resource-Adaptive_Federated_Learning_With_Heterogeneous_Clients_CVPR_2023_paper.pdf">paper</a>] [<a href="https://github.com/git-disl/scale-fl">code</a>]
+    <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>, 2023. (<b>CVPR</b>) [<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Ilhan_ScaleFL_Resource-Adaptive_Federated_Learning_With_Heterogeneous_Clients_CVPR_2023_paper.pdf">paper</a>] [<a href="https://github.com/git-disl/scale-fl">code</a>] [<a href="https://youtu.be/niOJ1pmVYUM">video</a>]
   </div>
   <div style="flex: 1;">
     <img src="files/paper_imgs/scalefl.png" alt="" style="max-width: 90%; border: 1px solid #eee;">
