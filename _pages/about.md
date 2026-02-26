@@ -12,7 +12,7 @@ redirect_from:
 
 ## Bio
 
-<div style="text-align: justify"><p>I am a machine learning researcher at Apple. I obtained my CS Ph.D. at Georgia Institute of Technology, advised by <a href="https://www.cc.gatech.edu/~lingliu/">Prof. Ling Liu</a>. I interned as research scientist with Hybrid Cloud Systems Research Group at IBM Research during the summers.</p></div>
+<div style="text-align: justify"><p>I am a Machine Learning Researcher at Apple. I earned my Ph.D. in Computer Science from Georgia Institute of Technology, where I was advised by <a href="https://www.cc.gatech.edu/~lingliu/">Prof. Ling Liu</a>. During my doctoral studies, I spent my summers as a Research Scientist Intern with the Hybrid Cloud Systems Research Group at IBM Research. Prior to Georgia Tech, I completed both my B.Sc. and M.Sc. in Electrical and Electronics Engineering at Bilkent University in 2019 and 2021, respectively.
 
 <div style="text-align: justify"><p> <b>Research:</b> My current research focus is on-device machine learning optimization techniques and mobile-cloud hybrid computing for scalable application. I have also worked and collaborated on projects related to distillation for LLMs, AI safety, multi-agent AI, distributed learning, reinforcement learning and time series prediction/anomaly detection.</p></div>
 
