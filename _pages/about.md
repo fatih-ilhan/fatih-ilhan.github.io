@@ -10,13 +10,12 @@ redirect_from:
 
 # Fatih Ilhan
 
-### Ph.D. Student, School of Computer Science
-### KACB 3337, Georgia Institute of Technology, Atlanta, GA, USA
-### E-mail: filhan_AT_gatech_DOT_edu 
+### ML Researcher, Apple
+### 333 Dexter Ave N, Seattle, WA
 
 ## Bio
 
-<div style="text-align: justify"><p>I am a machine learning engineer at Apple. I obtained my CS Ph.D. at Georgia Institute of Technology, advised by <a href="https://www.cc.gatech.edu/~lingliu/">Prof. Ling Liu</a>. I interned as research scientist with Hybrid Cloud Systems Research Group at IBM Research during the summers.</p></div>
+<div style="text-align: justify"><p>I am a machine learning researcher at Apple. I obtained my CS Ph.D. at Georgia Institute of Technology, advised by <a href="https://www.cc.gatech.edu/~lingliu/">Prof. Ling Liu</a>. I interned as research scientist with Hybrid Cloud Systems Research Group at IBM Research during the summers.</p></div>
 
 <div style="text-align: justify"><p> <b>Research:</b> My current research focus is on-device machine learning optimization techniques and mobile-cloud hybrid computing for scalable application. I have also worked and collaborated on projects related to distillation for LLMs, AI safety, multi-agent AI, distributed learning, reinforcement learning and time series prediction/anomaly detection.</p></div>
 
@@ -40,7 +39,7 @@ redirect_from:
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 2; padding-right: 20px;">
     <b>H3 Fusion: Helpful, Harmless, Honest Fusion of Pretrained-LLMs</b><br>
-    <b>S. F. Tekin, <b>F. Ilhan</b>, S. Hu, T. Huang, Y. Xu, Z. Yahn, and L. Liu.
+    S. F. Tekin, <b>F. Ilhan</b>, S. Hu, T. Huang, Y. Xu, Z. Yahn, and L. Liu.
     <i>European Chapter of the Association for Computational Linguistics </i>, 2026. (<b>EACL</b>) [<a href="https://openreview.net/pdf?id=RJ5a0hfkmQ">paper</a>] [<a href="https://github.com/git-disl/h3fusion">code</a>]
   </div>
   <div style="flex: 1;">
