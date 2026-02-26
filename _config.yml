@@ -15,7 +15,7 @@ locale                   : "en-US"
 title                    : "Fatih Ilhan"
 title_separator          : "-"
 name                     : &name "Fatih Ilhan"
-description              : &description "Ph.D. Student at Georgia Institute of Technology"
+description              : &description "ML Researcher, Apple"
 url                      : https://fatih-ilhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fatih-ilhan.github.io"
@@ -87,8 +87,8 @@ analytics:
 author:
   name             : "Fatih Ilhan"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student, School of Computer Science, Georgia Institute of Technology"
-  location         : "Atlanta, GA, USA"
+  bio              : "Machine Learning Researcher, Apple"
+  location         : "Seattle, WA, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com.tr/citations?hl=en&user=DHB3X18AAAAJ"
