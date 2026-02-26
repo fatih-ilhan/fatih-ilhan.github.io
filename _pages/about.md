@@ -10,9 +10,6 @@ redirect_from:
 
 # Fatih Ilhan
 
-### ML Researcher, Apple
-### 333 Dexter Ave N, Seattle, WA
-
 ## Bio
 
 <div style="text-align: justify"><p>I am a machine learning researcher at Apple. I obtained my CS Ph.D. at Georgia Institute of Technology, advised by <a href="https://www.cc.gatech.edu/~lingliu/">Prof. Ling Liu</a>. I interned as research scientist with Hybrid Cloud Systems Research Group at IBM Research during the summers.</p></div>
