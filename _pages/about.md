@@ -20,6 +20,7 @@ redirect_from:
 
 <div style="text-align: justify"><p> Please refer to my <a href="https://fatih-ilhan.github.io/files/cv.pdf"><b>CV</b></a> for the full record of my work and experience.</p></div>
 
+
 ## Selected Publications
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
@@ -30,17 +31,6 @@ redirect_from:
   </div>
   <div style="flex: 1;">
     <img src="files/paper_imgs/h3fusion.png" alt="" style="max-width: 90%; border: 1px solid #eee;">
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="flex: 2; padding-right: 20px;">
-    <b>FedHFT: Efficient Federated Finetuning with Heterogeneous Edge Clients</b><br>
-    <b>F. Ilhan</b>, S. F. Tekin, T. Huang, G. Liu, R. Kompella, G. Eisenhauer, Y. C. Lin, C. Pu and L. Liu.
-    <i>IEEE Conference on Cognitive Machine Intelligence </i>, 2025. (<b>IEEE CogMI</b>) [<a href="https://arxiv.org/abs/2510.14054">paper</a>] [<a href="https://github.com/git-disl/FedHFT">code</a>] [<a href="https://gtvault-my.sharepoint.com/:p:/g/personal/filhan3_gatech_edu/EZ1mEF8trdlNrJ__raLQkhoB3_byHED7auLQyK3DoLKDdQ?e=SNn6Me">video</a>]
-  </div>
-  <div style="flex: 1;">
-    <img src="files/paper_imgs/fedhft.png" alt="" style="max-width: 90%; border: 1px solid #eee;">
   </div>
 </div>
 
