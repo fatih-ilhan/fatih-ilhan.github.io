@@ -16,9 +16,9 @@ redirect_from:
 
 ## Bio
 
-<div style="text-align: justify"><p>I am a 5th year CS Ph.D. candidate at the School of Computer Science, Georgia Institute of Technology, advised by  <a href="https://www.cc.gatech.edu/~lingliu/">Prof. Ling Liu</a> . I interned as research scientist with Hybrid Cloud Systems Research Group at IBM Research during the summers.</p></div> 
+<div style="text-align: justify"><p>I am a machine learning engineer at Apple. I obtained my CS Ph.D. at Georgia Institute of Technology, advised by <a href="https://www.cc.gatech.edu/~lingliu/">Prof. Ling Liu</a>. I interned as research scientist with Hybrid Cloud Systems Research Group at IBM Research during the summers.</p></div>
 
-<div style="text-align: justify"><p> <b>Research:</b> My current research focus is full-stack efficiency optimizations for inference and finetuning for large generative AI applications. I have also worked and collaborated on projects related to AI safety, multi-agent AI, distributed learning, reinforcement learning and time series prediction/anomaly detection.</p></div>
+<div style="text-align: justify"><p> <b>Research:</b> My current research focus is on-device machine learning optimization techniques and mobile-cloud hybrid computing for scalable application. I have also worked and collaborated on projects related to distillation for LLMs, AI safety, multi-agent AI, distributed learning, reinforcement learning and time series prediction/anomaly detection.</p></div>
 
 <div style="text-align: justify"><p> <b>Teaching:</b> I have served as the head TA of OMS CS6675 (Advanced Internet Systems and Applications) for four semesters and was selected as the Georgia Tech Head TA of the Year in 2025. </p></div>
 
@@ -39,12 +39,34 @@ redirect_from:
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 2; padding-right: 20px;">
+    <b>H3 Fusion: Helpful, Harmless, Honest Fusion of Pretrained-LLMs</b><br>
+    <b>S. F. Tekin, <b>F. Ilhan</b>, S. Hu, T. Huang, Y. Xu, Z. Yahn, and L. Liu.
+    <i>European Chapter of the Association for Computational Linguistics </i>, 2026. (<b>EACL</b>) [<a href="https://openreview.net/pdf?id=RJ5a0hfkmQ">paper</a>] [<a href="https://github.com/git-disl/h3fusion">code</a>]
+  </div>
+  <div style="flex: 1;">
+    <img src="files/paper_imgs/h3fusion.png" alt="" style="max-width: 90%; border: 1px solid #eee;">
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 2; padding-right: 20px;">
     <b>Booster: Tackling Harmful Fine-tuning for Large Language Models via Attenuating Harmful Perturbation</b><br>
     T. Huang, S. Hu, <b>F. Ilhan</b>, S. F. Tekin, and L. Liu.
     <i>International Conference on Learning Representations</i>, 2025. (<b>ICLR oral</b>) [<a href="https://openreview.net/pdf?id=tTPHgb0EtV">paper</a>] [<a href="https://github.com/git-disl/Booster">code</a>]
   </div>
   <div style="flex: 1;">
     <img src="files/paper_imgs/booster.png" alt="" style="max-width: 90%; border: 1px solid #eee;">
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 2; padding-right: 20px;">
+    <b>Adversarial Attention Perturbations for Large Object Detection Transformers</b><br>
+    Z. Yahn, S. F. Tekin, <b>F. Ilhan</b>, S. Hu, T. Huang, Y. Xu, M. Loper, and L. Liu.
+    <i>International Conference on Computer Vision </i>, 2025. (<b>ICCV</b>) [<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Yahn_Adversarial_Attention_Perturbations_for_Large_Object_Detection_Transformers_ICCV_2025_paper.pdf">paper</a>] [<a href="https://github.com/zacharyyahn/AFOG">code</a>]
+  </div>
+  <div style="flex: 1;">
+    <img src="files/paper_imgs/afog.png" alt="" style="max-width: 90%; border: 1px solid #eee;">
   </div>
 </div>
 
